@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="home blog has-featured-image">
+    <div class="wrapper">
+      {% include sidebar.html %}
+
+      <div class="content">
+        <div class="posts">
+          {{ content }}
+        </div>
+
+        <div class="footer section large-padding bg-dark">
+          <div class="clear"></div>
+        </div>
+
+        <div class="credits">
+          <div class="credits-inner">
+            <p class="credits-left">
+              2016 TomArra.com
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="clear"></div>
+    </div>
+    <script type="text/javascript" src="{{ "/javascript/wilson.js" | prepend: site.baseurl }}"></script>
+  </body>
+
+</html>

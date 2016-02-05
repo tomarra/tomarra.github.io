@@ -1,0 +1,61 @@
+<div class="sidebar">
+  <div class="blog-header">
+    <h1 class="blog-title">
+      <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </h1>
+  </div>
+
+  <div class="nav-toggle toggle">
+    <p>
+      <span class="show">Show menu</span>
+      <span class="hide">Hide menu</span>
+    </p>
+    <div class="bars">
+      <div class="bar"></div>
+      <div class="bar"></div>
+      <div class="bar"></div>
+      <div class="clear"></div>
+    </div>
+  </div>
+
+  <div class="blog-menu">
+    <ul class="navigation">
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+
+      {% for link in site.external_links %}
+        {% if link.title %}
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <div class="clear"></div>
+  </div>
+
+  <div class="mobile-menu">
+    <ul class="navigation">
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+
+      {% for link in site.external_links %}
+        {% if link.title %}
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
