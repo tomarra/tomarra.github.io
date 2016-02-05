@@ -8,9 +8,9 @@
 # Site settings
 title: TomArra.com
 email: tarra3@gmail.com
-description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tomarra.com" # the base hostname & protocol for your site
+description: ""
+baseurl: ""
+url: "http://tomarra.com"
 external_links:
 - title: "Facebook"
   url: "http://www.facebook.com/tomarra"
@@ -23,8 +23,7 @@ external_links:
 - title: "GitHub"
   url: "https://github.com/tomarra"
 - title: "Resume"
-  url: ""
-
+  url: "/assets/other/Tom_Arra_Resume.pdf"
 
 # Build settings
 markdown: kramdown
