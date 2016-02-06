@@ -2,9 +2,7 @@
 layout: post
 title:  "iOS Notifications are a Toxic Hellstew"
 date:   2014-10-02 12:00:00 -0600
-image: "iOS_Notifications.png"
-categories: software
-tags: android apple ios notifications windowsphone
+tags: android apple ios notifications windowsphone software
 ---
 
 Notifications on our mobile devices has become an accepted part of our daily lives. Nothing wrong with that. But it seems like Apple just can’t get it right and it bugs the hell out of me.
