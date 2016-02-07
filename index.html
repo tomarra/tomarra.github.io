@@ -6,6 +6,17 @@ layout: default
 
     {% for post in site.posts limit:10 %}
       <div class="post">
+        {% if post.image %}
+        <div class="featured-media">
+          <a href="" title="">
+            <img src="{{ site.baseurl }}/images/{{ post.image }}">
+          </a>
+        </div>
+        {% endif %}
+        
+        <div class="post-inner">
+
+
           <h2 class="post-title">
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
@@ -13,7 +24,9 @@ layout: default
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <div class="post-content">
+            <p>
             {{ post.content | split:'<!--break-->' | first }}
+          </p>
 
             {% if post.content contains '<!--break-->' %}
               <div class="archive-nav">
@@ -21,6 +34,7 @@ layout: default
               </div>
             {% endif %}
           </div>
+        </div>
       </div>
     {% endfor %}
 

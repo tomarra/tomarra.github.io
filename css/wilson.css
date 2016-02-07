@@ -1581,7 +1581,7 @@ p.form-allowed-tags {
 
 
 .archive-nav {
-	padding: 0% 8% 8% 2%;
+	padding: 0% 8% 8% 0%;
 	/*background: #EEE;*/
 	font-size: 0.9em;
 }
