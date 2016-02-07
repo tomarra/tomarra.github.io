@@ -8,7 +8,7 @@ layout: default
       <div class="post">
         {% if post.image %}
         <div class="featured-media">
-          <a href="" title="">
+          <a href="{{ page.url }}" title="{{ page.title }}">
             <img src="{{ site.baseurl }}/images/{{ post.image }}">
           </a>
         </div>
