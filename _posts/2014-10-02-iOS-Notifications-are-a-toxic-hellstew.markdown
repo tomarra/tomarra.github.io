@@ -9,6 +9,8 @@ Notifications on our mobile devices has become an accepted part of our daily liv
 
 Let’s just face facts, Android got notifications right from the start. The pull down notification shade has become a default smartphone OS gesture that everyone just recognizes. Naturally this means that everyone else will copy this paradigm but the details on how notifications are handled is really what matters to the users.
 
+<!--break-->
+
 **Android**
 
 While I don’t like a cluttered up UI, having a quick glance icon in the notification bar to see what apps have notifications for me is convenient. Every so often though it can be overwhelming. The one saving detail here is that this is the only area that notifications show up and dismissing them is just one easy swipe.
