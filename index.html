@@ -16,7 +16,9 @@ layout: default
             {{ post.content | split:'<!--break-->' | first }}
 
             {% if post.content contains '<!--break-->' %}
-              <a href="{{ post.url }}">read more</a>
+              <div class="archive-nav">
+                <a href="{{ post.url }}" class="post-nav-older">« Read More</a>
+              </div>
             {% endif %}
           </div>
       </div>
