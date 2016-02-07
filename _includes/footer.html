@@ -5,7 +5,8 @@
 <div class="credits">
   <div class="credits-inner">
     <p class="credits-left">
-      2016 TomArra.com
+      {{ site.time | date: "%Y" }} TomArra.com<br/>
+      <span>Last Updated On: {{ site.time | date: "%B %-d, %Y" }}</span>
     </p>
     <p class="credits-right">
       <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a>
