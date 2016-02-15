@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Pebble v2.5 is Huge for Smartwatches"
+date:   2014-09-24 12:00:00 -0600
+image: "Pebble2.5.png"
+tags: hardware software ios8 iphone notifications pebble
+---
+I have been a Pebble user on and off for the last year or so and overall it’s been great. Unfortunately when I switched back to using a Windows Phone for a few months the Pebble pretty much became useless. Due to some [recent events](http://www.zdnet.com/microsoft-cuts-another-2100-employees-worldwide-7000033833/) though I am back to using an iPhone and the timing couldn’t have been better. Just last week Pebble [released](https://blog.getpebble.com/2014/09/18/fw-2-5/) v2.5 of their firmware and while I am sure a lot of people are excited about it supporting Emoji the iOS 8 notification integration is where the real meat of this release is.
+
+<!--break-->
+
+While having notifications on my wrist has been something new and cool let’s face it, the iOS notification center is a total mess. The notifications tend to pile up in the pull down even though you acted on them, email notifications from 2 weeks ago and sitting in the queue for no reason, and don’t even get me started on that “Missed” tab that was rightly removed in iOS 8. Pebble realized with new API’s that they had a chance to solve this and I think they have done a wonderful job with it.
+
+Now when a notification comes into my device I see it hit my Pebble ~2 seconds after I feel my phone buzz (due to the latency of Bluetooth LE). It used to be that I just read and dismissed the notification on my wrist but would see it again later on when I did pull my phone out. Now with v2.5 I have 2 options, the back button clears the notification from my wrist (but not my phone) while the select button clears the notification from my wrist and my phone. Finally!
+
+This actually has changed the way I am using my device. Now when a notification comes in if it’s something I need to take care of in a bit I keep the notification on the device. Then when I do pull my phone out of my pocket it acts as a simple reminder for important things while all the notifications for junk emails have been dismissed already by my Pebble.
+
+Now I’m sure this is not a new concept. In fact I would be surprised if Android Wear doesn’t do this already (or have some other similar functionality). Currently with the Pebble this functionality is limited to iOS  8 and I assume this is because Apple opened up some new API’s that they plan on using with the Apple Watch later next year. Either way, bravo to the folks at Pebble for seeing the opportunity and executing on it in a fantastic way.

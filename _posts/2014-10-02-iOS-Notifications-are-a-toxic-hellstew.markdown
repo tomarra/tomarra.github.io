@@ -30,6 +30,6 @@ When iOS launched it had what was a new notification system. Just a simple numbe
 
 Applications were showing badges, and notifications with more details were being shown in the Notification Center. Problem is, if I clear a notification in the Notification Center the application doesn’t know about it and the badge still stays there. And the reverse is true as well. There is no consistent story for users and so you end up showing notifications twice which is incredibly frustrating.
 
-_Side Note: There must be some new API’s in iOS 8 because Pebble has a new feature which will dismiss a notification from the lock screen and notification center but it still doesn’t update the application badge. It’s a step in the right direction but there is still more work to be done._
+_Side Note: There must be some new API’s in iOS 8 because Pebble has a [new feature](http://tomarra.com/2014/09/24/pebble-v2-5-is-huge-for-smartwatches/) which will dismiss a notification from the lock screen and notification center but it still doesn’t update the application badge. It’s a step in the right direction but there is still more work to be done._
 
 Is this going to be fixed in iOS 8? Probably not. Apple has shown that major rework of a feature doesn’t really happen in their point releases. I just hope that with the Apple Watch coming next year they get their act together and have a cohesive story when it comes to my devices buzzing at me.
