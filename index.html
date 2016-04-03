@@ -20,9 +20,7 @@ layout: default
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <div class="post-content">
-            
-              {{ post.content | split:'<!--break-->' | first }}
-
+            {{ post.content | split:'<!--break-->' | first }}
 
             {% if post.content contains '<!--break-->' %}
               <div class="archive-nav">

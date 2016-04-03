@@ -810,7 +810,10 @@ a.more-link,
 /* -------------------------------------------------------------------------------- */
 
 
-.post-content { font-size: 1.075em; }
+.post-content {
+	font-size: 1.075em;
+	margin-top: 10px;
+}
 
 .post-content a:hover { text-decoration: underline; }
 
