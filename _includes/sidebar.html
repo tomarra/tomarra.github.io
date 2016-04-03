@@ -20,13 +20,13 @@
 
   <div class="blog-menu">
     <ul class="navigation">
-      {% for my_page in site.pages %}
+      <!--{% for my_page in site.pages %}
         {% if my_page.title %}
         <li class="menu-item menu-item-type-post_type menu-item-object-page">
           <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         </li>
         {% endif %}
-      {% endfor %}
+      {% endfor %}-->
 
       {% for link in site.external_links %}
         {% if link.title %}
@@ -41,13 +41,13 @@
 
   <div class="mobile-menu">
     <ul class="navigation">
-      {% for my_page in site.pages %}
+      <!--{% for my_page in site.pages %}
         {% if my_page.title %}
         <li class="menu-item menu-item-type-post_type menu-item-object-page">
           <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         </li>
         {% endif %}
-      {% endfor %}
+      {% endfor %}-->
 
       {% for link in site.external_links %}
         {% if link.title %}
@@ -57,5 +57,23 @@
         {% endif %}
       {% endfor %}
     </ul>
+  </div>
+
+  <div class="widgets" role="complementary">
+    <div class="widget widget_meta">
+      <div class="widget-content">
+        <h3 class="widget-title">Site Basics</h3>
+        <ul>
+          {% for link in site.site_basics %}
+            {% if link.title %}
+            <li>
+              <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="clear"></div>
+    </div>
   </div>
 </div>

@@ -8,10 +8,12 @@
 # Site settings
 title: TomArra.com
 email: tarra3@gmail.com
-description: ""
-baseurl: ""
-url: "http://tomarra.com"
+description: "The personal website of Tom Arra"
+baseurl: "" #Intenially left blank so the browser picks up the base URL on its own
+url: "http://tomarra.com" #Should only be used in the RSS Feed
 external_links:
+- title: "About"
+  url: "/about"
 - title: "Facebook"
   url: "http://www.facebook.com/tomarra"
 - title: "Twitter"
@@ -24,6 +26,11 @@ external_links:
   url: "https://github.com/tomarra"
 - title: "Resume"
   url: "/assets/other/Tom_Arra_Resume.pdf"
+site_basics:
+- title: "RSS Feed"
+  url: "/feed.xml"
+- title: "Tags"
+  url: "/tags"
 
 # Build settings
 markdown: kramdown
