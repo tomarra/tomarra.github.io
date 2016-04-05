@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="home">
+<div>
     {% for post in site.posts limit:10 %}
       <div class="post">
         {% if post.image %}
@@ -12,8 +12,8 @@ layout: default
         </div>
         {% endif %}
 
-        <div class="post-inner">
-          <h2 class="post-title">
+        <div>
+          <h2>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
 
@@ -24,7 +24,7 @@ layout: default
 
             {% if post.content contains '<!--break-->' %}
               <div class="read_more_button">
-                <a href="{{ post.url }}" class="post-nav-older">« Read More</a>
+                <a href="{{ post.url }}">« Read More</a>
               </div>
             {% endif %}
           </div>
