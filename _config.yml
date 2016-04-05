@@ -34,3 +34,6 @@ site_basics:
 
 # Build settings
 markdown: kramdown
+
+sass:
+    sass_dir: assets/css/_sass
