@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pebble v2.5 is Huge for Smartwatches"
+title:  "My iPhone 6 Buying Experience"
 date:   2014-09-24 13:00:00 -0600
 image: "iPhone6_Buying.png"
 tags: hardware products bestbuy ios8 iphone iphone6

@@ -1,32 +1,8 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit:10 %}
-  <div class="post">
-    {% if post.image %}
-    <div class="featured-media">
-      <a href="{{ post.url }}" title="{{ post.title }}">
-        <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="{{ post.title }}">
-      </a>
-    </div>
-    {% endif %}
-
-    <div>
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-      <div class="post-content">
-        {{ post.content | split:'<!--break-->' | first }}
-
-        {% if post.content contains '<!--break-->' %}
-          <a href="{{ post.url }}" class="read_more_button">« Read More</a>
-        {% endif %}
-      </div>
-    </div>
-  </div>
+{% for page in site.posts limit:10 %}
+  {% include post.html isIndex="true" %}
 {% endfor %}
 
 <!-- Need a link to all posts here! -->

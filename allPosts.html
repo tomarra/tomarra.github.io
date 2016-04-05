@@ -1,0 +1,15 @@
+---
+layout: page
+title: All Posts
+description: "An archive of all posts"
+permalink: /all/
+---
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      {{ post.title }} - {{ post.date | date: "%b %-d, %Y" }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
