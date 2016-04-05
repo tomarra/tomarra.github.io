@@ -3,21 +3,39 @@
 
   {% include head.html %}
 
-  <body class="home blog has-featured-image">
-    <div class="wrapper">
-      {% include sidebar.html %}
+  <!-- HEADER -->
+  <div id="header_wrap" class="outer">
+      <header class="inner">
+        <h1 id="project_title">TomArra.com</h1>
+        <h2 id="project_tagline">The ramblings of a geek in Chicago</h2>
+      </header>
+  </div>
 
-      <div class="content">
-        <div class="posts">
-          {{ content }}
-        </div>
+  <div id="main_content_wrap" class="outer">
+    <section id="main_content" class="inner">
+      {{ content }}
+    </section>
+  </div>
 
-        {% include footer.html %}
-      </div>
+  <!-- FOOTER  -->
+  <div id="footer_wrap" class="outer">
+    <footer class="inner">
+      <p class="copyright">Modifed <a href="https://github.com/jasoncostello/slate">Slate</a> theme maintained by Tom Arra</p>
+      <p>{{ site.time | date: "%Y" }} TomArra.com</p>
+      <p>Last Updated On: {{ site.time | date: "%B %-d, %Y" }}</p>
+    </footer>
+  </div>
 
-      <div class="clear"></div>
+  <!--<div class="credits">
+    <div class="credits-inner">
+      <p class="credits-left">
+        {{ site.time | date: "%Y" }} TomArra.com<br/>
+        <span>Last Updated On: {{ site.time | date: "%B %-d, %Y" }}</span>
+      </p>
+      <p class="credits-right">
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a>
+      </p>
     </div>
-    <script type="text/javascript" src="{{ "/assets/javascript/wilson.js" | prepend: site.baseurl }}"></script>
-  </body>
+  </div>-->
 
 </html>

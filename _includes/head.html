@@ -1,4 +1,4 @@
-<head>
+<!--<head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,4 +13,15 @@
   <link rel="stylesheet" href="{{ "/assets/css/wilson.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+</head>-->
+
+<head>
+  <meta charset='utf-8' />
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <meta name="description" content="Slate is a responsive theme for GitHub Pages" />
+
+  <link rel="stylesheet" id="wilson_googleFonts-css" href="//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic%7CRaleway%3A400%2C700&amp;ver=4.4.2" type="text/css" media="all">
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ "/assets/css/stylesheet.css" | prepend: site.baseurl }}">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 </head>

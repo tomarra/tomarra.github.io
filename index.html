@@ -23,7 +23,7 @@ layout: default
             {{ post.content | split:'<!--break-->' | first }}
 
             {% if post.content contains '<!--break-->' %}
-              <div class="archive-nav">
+              <div class="read_more_button">
                 <a href="{{ post.url }}" class="post-nav-older">« Read More</a>
               </div>
             {% endif %}
