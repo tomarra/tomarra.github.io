@@ -29,6 +29,6 @@ CBS – [Tweet](https://twitter.com/samirak01/status/553692581549572096) (Conver
 
 WGN – [Tweet](https://twitter.com/ungersam/status/553698212310417408), [Story](http://wgntv.com/2015/01/09/water-main-breaks-at-union-station/) (Used in video)
 
-89 WLS – [Tweet](https://twitter.com/wlsam890/status/553715272855482369), [Story](http://www.wlsam.com/common/page.php?feed=11&pt=Broken+water+main%2C+leak+affecting+Metra+lines+at+Union+Station&id=117441&is_corp=0)
+89 WLS – [Tweet](https://twitter.com/wlsam890/status/553715272855482369)
 
 Telemundo – [Tweet](https://twitter.com/barracan/status/553698914193641473)

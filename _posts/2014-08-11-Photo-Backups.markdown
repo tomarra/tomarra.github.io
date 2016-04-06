@@ -32,5 +32,3 @@ The really interesting part is the new pricing structure along with Office 365. 
 **Wrap up**
 
 With so many options out there what is the best solution? Well as usual it will depend on your situation but I am putting my money on OneDrive. Microsoft has shown that they are committed to getting their services working on the platforms that users are actually using, 5 years ago that was never the case. On all my devices/phones I have the OneDrive app installed and I have the safety of knowing that any picture I take is going to be backed up to one place and that’s just plain awesome.
-
-Image Source : [http://www.cttl.net/images/logos/cloud_backup.png](http://www.cttl.net/images/logos/cloud_backup.png)
