@@ -10,4 +10,26 @@
   <link rel="stylesheet" type="text/css" media="screen" href="{{ "/assets/css/stylesheet.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+  <script type="text/javascript" src="{{ "/assets/javascript/jquery_1.11.3.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/javascript/jquery-migrate_1.2.1.js" | prepend: site.baseurl }}"></script>
+
+  <script>
+    jQuery(document).ready(function() {
+      var pull 		= jQuery('#pull');
+        menu 		= jQuery('nav ul');
+        menuHeight	= menu.height();
+
+      jQuery(pull).on('click', function(e) {
+        e.preventDefault();
+        menu.slideToggle();
+      });
+
+      jQuery(window).resize(function(){
+            var w = jQuery(window).width();
+            if(w > 320 && menu.is(':hidden')) {
+              menu.removeAttr('style');
+            }
+        });
+    });
+  </script>
 </head>
