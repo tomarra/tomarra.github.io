@@ -6,9 +6,17 @@
 //
 
 $font-stack: 'Lato', 'Helvetica Neue', sans-serif
+$code-block-font-stack: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
+
 $header-footer-color: #353e49
 $body-color: #dbd9d9
 $page-content-color: #f2f2f2
+$footer-text-color: #f2f2f2
+$link-text-color: #007edf
+$image-border-color: #ebebeb
+$code-block-text-color: #222
+$code-block-background-color: #fff
+
 
 //
 // Imports
@@ -63,18 +71,18 @@ p
   margin: 10px 0 15px 0
 
 footer p
-  color: #f2f2f2
+  color: $footer-text-color
 
 a
   text-decoration: none
-  color: #007edf
+  color: $link-text-color
   text-shadow: none
 
 a:hover, a:focus
   text-decoration: underline
 
 footer a
-  color: #F2F2F2
+  color: $footer-text-color
   text-decoration: underline
 
 em
@@ -90,13 +98,13 @@ img
   height: auto
   padding: 5px
   margin: 10px 0 10px 0
-  border: 1px solid #ebebeb
+  border: 1px solid $image-border-color
 
-  box-shadow: 0 0 5px #ebebeb
-  -webkit-box-shadow: 0 0 5px #ebebeb
-  -moz-box-shadow: 0 0 5px #ebebeb
-  -o-box-shadow: 0 0 5px #ebebeb
-  -ms-box-shadow: 0 0 5px #ebebeb
+  box-shadow: 0 0 5px $image-border-color
+  -webkit-box-shadow: 0 0 5px $image-border-color
+  -moz-box-shadow: 0 0 5px $image-border-color
+  -o-box-shadow: 0 0 5px $image-border-color
+  -ms-box-shadow: 0 0 5px $image-border-color
 
 p img
   display: inline
@@ -108,10 +116,10 @@ p img
 
 pre, code
   width: 100%
-  color: #222
-  background-color: #fff
+  color: $code-block-text-color
+  background-color: $code-block-background-color
 
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
+  font-family: $code-block-font-stack
   font-size: 14px
 
   border-radius: 2px
