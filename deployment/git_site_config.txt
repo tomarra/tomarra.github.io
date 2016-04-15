@@ -1,0 +1,16 @@
+server {
+  server_name git.tomarra.com;
+  listen 80;
+  root /var/www/git.tomarra.com/public_html;
+  access_log /var/www/git.tomarra.com/logs/access.log;
+  error_log /var/www/git.tomarra.com/logs/error.log;
+  index index.html index.php;
+
+  location / {
+    try_files $uri @app;
+  }
+
+  location @app {
+    proxy_pass http://localhost:4567;
+  }
+}
