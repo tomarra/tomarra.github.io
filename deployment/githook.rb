@@ -6,7 +6,7 @@ git_user = "tomarra"
 tmp_dir = "/tmp/jekyll/"
 web_dir = "/var/www/"
 output = ""
-master_ref_tag "refs/head/master"
+master_ref_tag = "refs/head/master"
 
 puts "Process ID: #{Process.pid}"
 
