@@ -2,3 +2,11 @@
 layout: default
 ---
 {% include post.html %}
+
+<div id="tags">
+  <ul class="tag-box inline">
+  {% for tag in page.tags %}
+    <li><a href="/tags/#{{ tag }}">{{ tag | remove:','}}</a></li>
+  {% endfor %}
+  </ul>
+</div>
