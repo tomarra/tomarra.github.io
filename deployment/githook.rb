@@ -6,7 +6,7 @@ git_user = "tomarra"
 tmp_dir = "/tmp/jekyll/"
 web_dir = "/var/www/"
 output = ""
-master_ref_tag = "refs/head/master"
+master_ref_tag = "refs/heads/master"
 
 puts "Process ID: #{Process.pid}"
 
@@ -45,5 +45,5 @@ puts "Process ID: #{Process.pid}"
   end
 
   puts output
-  output
+  output = ""
 end

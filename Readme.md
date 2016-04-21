@@ -44,6 +44,8 @@ Making the assumption that this is using DigitalOcean running Ubuntu 14
   - `gem install sinatra`
   - `gem install thin`
   - `gem install json`
+  - `gem install jekyll-coffeescript`
+  - `gem install therubyracer`
 - Fix NGINX Settings
   - `sudo nano /etc/nginx/nginx.conf`
   - Set `server_names_hash_bucket_size` to 64
