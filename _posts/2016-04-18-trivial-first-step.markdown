@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding the Trivial First Step"
 date:   2016-04-18 12:00:00 -0600
-tags: agile, firststep, software
+tags: agile firststep software
 ---
 An awesome post that is making the rounds today. This is useful not only for software development but pretty much any big project.
 
