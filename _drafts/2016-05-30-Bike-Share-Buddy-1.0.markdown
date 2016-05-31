@@ -10,5 +10,7 @@ I always have a couple little side projects that occupy the little spare time I 
 
 I wanted to create an app that was not only interesting but other people would find useful. During some research for work I found that [Bixi](http://bixi.com) was an umbrella company that runs a lot of the bike sharing programs around the US (as well as Canada and the U.K.) and it just so happens that they have an API that's pretty standard across their programs. I thought it would be a fun experiment to see if I could create an app that worked across many different cities so that users wouldn't have to download a new app for every city they wanted to visit. The idea and the app was simple but all the extra things it takes to get an app launched the right way really blindsided me.
 
-I had the basics of the app ready to go within a couple months or so of some work at nights and on weekends. As usual life gets in the way but I would always find at least a little time to move things forward
+I had the basics of the app ready to go within a couple months or so of some work at nights and on weekends. As usual life gets in the way but I would always find at least a little time to move things forward. Eventually I was able to get a version out to a few testers via TestFlight and I felt like the finish line was close. But then going through the final motions of App Store submission slowed things down. I needed to have a website, and support emails, and a few other things that normally you wouldn't think about. Overall it was long road to get here but I have learned quite a lot.
+
+Do I expect this app to set the world on fire, heck no. But I am proud that I took something from concept to reality and I really hope I can use it to learn more and more about iOS.
 
