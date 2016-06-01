@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Bike Share Buddy 1.0"
-Image: "BIke-Buddy-Icon.png"
+image: "Bike-Buddy-Icon.png"
 date:   2016-05-30 12:00:00 -0600
 tags: bikesharebuddy bikebuddy ios development
 ---
 I always have a couple little side projects that occupy the little spare time I have. One I have had going on and off for a year now but it's not finally to pull the trigger. Today I published my first app to the App Store.
 
-## Introducing Bike Share Buddy
+### Introducing Bike Share Buddy
 
 ![Bike Buddy Screenshot]({{ site.baseurl }}/assets/images/Bike-Buddy-Screenshot.png)
 
