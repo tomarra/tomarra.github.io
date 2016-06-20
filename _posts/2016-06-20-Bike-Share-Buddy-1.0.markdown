@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Bike Share Buddy 1.0"
-image: "Bike-Buddy-Icon.png"
-date:   2016-06-20 12:00:00 -0600
+date:   2016-06-20 10:00:00 -0600
 tags: bikesharebuddy bikebuddy ios development
 ---
 I always have a couple little side projects that occupy the little spare time I have. There is one that I have been working on and off for a year now but it's not finally to pull the trigger. Today I published my first app to the App Store.
@@ -17,4 +16,4 @@ I had the basics of the app ready to go within a couple weeks or so, mostly work
 
 Do I expect this app to set the world on fire, not a chance. But I am proud that I took something from concept to reality and I really hope I can use it to learn more and more about iOS.
 
-[Download on the App Store](https://itunes.apple.com/us/app/id998776734)
+[![Download on the AppStore]({{ site.baseurl }}/assets/images/Download_On_AppStore_Button.png)](https://itunes.apple.com/us/app/id998776734)
