@@ -16,3 +16,5 @@ I wanted to create an app that was not only interesting for me to build but that
 I had the basics of the app ready to go within a couple weeks or so, mostly work done at nights and on weekends. As usual life gets in the way but I would always find at least a little time to move things forward. Eventually I was able to get a version out to a few testers via TestFlight and I felt like the finish line was close. But then going through the final motions of App Store submission slowed things down. I needed to have a [website](http://www.cloudgatestudios.com/BikeShareBuddy/) for the app, support/contact email accounts, and a few other things that normally you wouldn't think about. Overall it was long road to get here but I have learned quite a lot.
 
 Do I expect this app to set the world on fire, not a chance. But I am proud that I took something from concept to reality and I really hope I can use it to learn more and more about iOS.
+
+[Download on the App Store](https://itunes.apple.com/us/app/id998776734)
