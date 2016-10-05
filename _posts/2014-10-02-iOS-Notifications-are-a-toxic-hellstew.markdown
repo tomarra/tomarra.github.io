@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "iOS Notifications are a Toxic Hellstew"
-date:   2014-10-02 12:00:00 -0600
-image: "iOS_Notifications.png"
+date:   2014-10-02
+banner_image: iOS_Notifications.png
 tags: android apple ios notifications windowsphone software
 ---
 
@@ -10,7 +10,7 @@ Notifications on our mobile devices has become an accepted part of our daily liv
 
 Let’s just face facts, Android got notifications right from the start. The pull down notification shade has become a default smartphone OS gesture that everyone just recognizes. Naturally this means that everyone else will copy this paradigm but the details on how notifications are handled is really what matters to the users.
 
-<!--break-->
+<!--more-->
 
 **Android**
 

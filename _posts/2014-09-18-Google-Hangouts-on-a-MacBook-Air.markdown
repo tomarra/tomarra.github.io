@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Google Hangouts on a MacBook Air"
-date:   2014-09-18 12:00:00 -0600
-image: "Hangouts_On_Air.png"
+date:   2014-09-18
+banner_image: Hangouts_On_Air.png
 tags: software chrome hangouts mac
 ---
 I have been using my MacBook Air full time now for a little over a month. Most things have been working very well with one exception, Google Hangouts.
 
 I only use Hangouts to chat with a few friends but it’s a great service with one giant catch, you have to run Chrome. Well newsflash, Chrome on a 2011 MacBook Air is a resource hog. I switched to using Safari and gained over an hour of battery life, no joke. So with that I was on the search for the best stand alone Hangout’s app on Mac. Long story short, there isn’t one. Google never released a real Hangouts API so there are no app’s besides the ones they wrote which limits you to a Chrome extension on desktop.
 
-<!--break-->
+<!--more-->
 
 Option 1 – Adium
 

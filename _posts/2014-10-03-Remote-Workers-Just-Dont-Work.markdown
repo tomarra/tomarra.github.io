@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Remote Workers Just Don't Work"
-date:   2014-10-03 12:00:00 -0600
-image: "Remote_Workers.png"
+date:   2014-10-03
+banner_image: Remote_Workers.png
 tags: other remote remoteoffice remoteworkers work workfromhome
 ---
 Or at least that’s what all the big companies are thinking. Every direction I turn I end up hearing about another company closing down a remote office or getting rid of remote workers and it always end’s up getting blown out of proportion.
 
 First let’s level set on a few terms here.
 
-<!--break-->
+<!--more-->
 
 * Work from Home – To me this means you have an employee that normally works at a physical office that the company owns. That employee has the perk of being able to work from home either on a full time, part time, or day-by-day basis.
 * Remote Worker – This is an employee who does not have a physical office to go to. Their home is their office. One perfect example of this is Scott Hanselman. He works for Microsoft but out of his house in Portland, Oregon.

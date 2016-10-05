@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Site Setup"
-date:   2016-05-06 12:00:00 -0600
+date:   2016-05-06
 tags: site jekyll digitalocean github
 ---
 As usual I got bored with my site's setup and decided to change everything around rather then writing new posts again :/

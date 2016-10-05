@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Looking Back at NovKiaSoft"
-date:   2014-09-19 12:00:00 -0600
-image: "NovKiaSoft.png"
+date:   2014-09-19
+banner_image: NovKiaSoft.png
 tags: other layoff microsoft nokia novarra novkiasoft
 permalink: 2014/09/19/looking-back-at-novkiasoft/
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Apple is Quietly Killing iPad only Applications"
-date:   2014-09-26 12:00:00 -0600
-image: "Universal_Apps.png"
+date:   2014-09-26
+banner_image: Universal_Apps.png
 tags: software apple ios ipad iphone universalapps
 ---
 *Disclaimer: I’m going to be talking about the future of a platform/applications that I have used for 7+ years but only have developed for the past month and a half. That being said I may have a few details wrong. Feel free to tweet me if you find issues.*
@@ -13,7 +13,7 @@ Not long after that I stumbled upon this tweet which got me thinking.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I haven’t felt any need to use my ỉPad since Friday. Just a note to ỉPad only apps.</p>&mdash; macdrifter (@macdrifter) <a href="https://twitter.com/macdrifter/status/514793358926282752">September 24, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!--break-->
+<!--more-->
 
 Now let’s take a step back. Part of this guy’s comment/situation is that he just got a brand new device, he is excited and is using it for everything. Totally normal. But when I saw this I was just previously thinking about the 6 Plus and the “iPad like” UI that it is being shown for multiple applications. Apple is starting to blur the line between iPhone and iPad but not without a decent plan for developers to evolve with them.
 
