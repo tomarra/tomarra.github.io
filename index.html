@@ -3,10 +3,10 @@ layout: default
 ---
 <div class="site-content">
     <div class="inner">
-        <main class="site-main"> 
+        <main class="site-main">
             {% for post in paginator.posts %}
             <article class="post">
-                <header class="entry-header"> 
+                <header class="entry-header">
                     <div class="entry-header-wrap">
                         {% if post.banner_image %}
                         <a href="{{site.baseurl}}{{post.url}}" class="post-thumbnail"><img src="{{ "/images/posts/" | append: post.banner_image | prepend: site.baseurl }}" alt="{% if post.banner_image_alt %}{{ post.banner_image_alt }}{% else %}{{ post.title }} {% endif %}"></a>
@@ -20,10 +20,10 @@ layout: default
                 <div class="entry-content">
                     {% if post.content contains '<!--more-->' %}
                         {{ post.content | split:'<!--more-->' | first }}
+                        <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="more-link" title="read more">read more</a></p>
                     {% else %}
                         {{ post.content }}
                     {% endif %}
-                    <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="more-link" title="read more">read more</a></p>
                 </div><!-- .entry-content -->
                 {% if post.tags.size > 0 %}
                 <footer class="entry-footer">

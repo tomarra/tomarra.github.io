@@ -1,10 +1,8 @@
 ---
 layout: page
 title: All Posts
-description: "An archive of all posts"
 permalink: /all/
 ---
-<h1>All Posts</h1>
 
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}

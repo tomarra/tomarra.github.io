@@ -29,6 +29,8 @@ navigation:
   url: /
 - text: About
   url: /about/
+- text: Archive
+  url: /all/
 - text: Tags
   url: /tags/
 
