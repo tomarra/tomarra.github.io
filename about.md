@@ -1,19 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About this blog
+description: An optional about page for BlogInn Jekyll theme
+banner_image: aboutPage.jpg
 ---
 
-About Tom
-=========
+**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-Tom has over nine years of experience in the software engineering world but has been interested in technology a few years before that. While attending school he started as an intern focused on product testing and hasn’t looked back since. Tom has experience as a software engineer, team lead, and product owner across many different types of products and frameworks.
+His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
 
-My Gear
-========
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-* Laptop – Apple MacBook Air (Mid 2011, MacBookAir4,2)
-* Tablet – Apple iPad Air 2 (128GB)
-* Cell Phone – Apple iPhone 6s (64GB, Space Grey, AT&T)
-* Camera – Nikon D5300
-* eBook Reader – Amazon Kindle Paperwhite (2nd Generation)
+As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+
+*Thank You for reading!*

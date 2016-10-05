@@ -5,38 +5,67 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: TomArra.com
-email: tarra3@gmail.com
-description: "The personal website of Tom Arra"
-baseurl: "" #Intenially left blank so the browser picks up the base URL on its own
-url: "http://tomarra.com" #Should only be used in the RSS Feed
-external_links:
-- title: "About"
-  url: "/about"
-- title: "Facebook"
-  url: "http://www.facebook.com/tomarra"
-- title: "Twitter"
-  url: "http://www.twitter.com/tom_arra"
-- title: "LinkedIn"
-  url: "http://www.linkedin.com/in/tomarra"
-- title: "Flickr"
-  url: "https://www.flickr.com/photos/tom_arra/"
-- title: "GitHub"
-  url: "https://github.com/tomarra"
-- title: "Resume"
-  url: "/assets/other/Tom_Arra_Resume.pdf"
-site_basics:
-- title: "RSS Feed"
-  url: "/feed.xml"
-- title: "Tags"
-  url: "/tags"
+# Site title
+title: "TomArra.com"
 
-# Build settings
-markdown: kramdown
-permalink: /:year/:month/:day/:title/
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "Just another personal website and blog"
+
+# Tagline near the site title
+tagline: "Thoughts, stories and ideas."
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl:
 
 sass:
-  sass_dir: assets/css/_sass
-gems:
- - jekyll-coffeescript
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "http://www.tomarra.com"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Tags
+  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus:
+
+# Author information - author info at the bottom of the post
+author_name: "Tom Arra"
+author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
+author_url:  "http://justgoodthemes.com"
+author_location: "Chicago, Illinois"
+author_image: /images/authorimage.png
+
+# Sidebar Add banner
+banner_url: "http://justgoodthemes.com"
+banner_image: images/banner.jpg
+
+
+# Social links in the site footer
+twitter_username: "tom_arra"
+facebook_username: "tomarra"
+googleplus_username:
+github_username: "tomarra"
+flickr_username: "tom_arra"
+codepen_username:
+dribbble_uername:
+medium_username:
+instagram_username:
+pinterest_username:
+linkedin_username: "tomarra"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+gems: [jekyll-paginate]
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false

@@ -2,8 +2,8 @@
 layout: post
 title:  "Learning How Social Media Is Used In The Daily News"
 date:   2015-01-11 13:00:00 -0600
-image: "Social_Media_In_The_News.png"
-tags: other tweets chicago news twitter unionstation
+banner_image: Social_Media_In_The_News.png
+tags: [other, tweets, chicago, news, twitter, unionstation]
 ---
 Most people watch the news (in some way shape or form) everyday. More and more we see contributions coming from online sources and social media and think nothing of it. I know I do, it’s just a way of life now. But late last week I had quite an experience with a picture and a “Breaking News” story.
 
