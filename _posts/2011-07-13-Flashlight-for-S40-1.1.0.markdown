@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flashlight for S40 1.1.0"
-date:   2011-07-13 12:00:00 -0600
+date:   2011-07-13
 tags: software flashlight nokia s40 webapps
 ---
 Time for another personal project plug. A update to Flashlight finally got approved and published to the Ovi Store. You can see the changes in my GitHub repo but the gist of it I added a power button and the ability to “dim” the screen. Unfortunately there is no way to do a straight update of the app on the phone so if it is installed you need to uninstall it and then re-download it from Ovi Store.

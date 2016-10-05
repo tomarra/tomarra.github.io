@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flash be gone!"
-date:   2011-06-29 12:00:00 -0600
+date:   2011-06-29
 tags: web flash google html5 swiffy
 ---
 Flash. Just saying the word makes me cringe. It’s never ran well on my desktop or laptop let alone any tablet I have seen but the Internet just loves it. With an onslaught of new features in HTML5, and a lot of websites moving towards these features, we can only hope that Flash will have a funeral sooner rather than later.

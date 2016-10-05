@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Last Shuttle"
-date:   2011-07-11 12:00:00 -0600
+date:   2011-07-11
 tags: space nasa shuttle spaceshuttle
 ---
 ![The Last Shuttle]({{ site.baseurl }}/assets/images/The_Last_Shuttle.jpg)

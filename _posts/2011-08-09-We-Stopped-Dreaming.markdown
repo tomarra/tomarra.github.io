@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We Stopped Dreaming"
-date:   2011-08-09 12:00:00 -0600
+date:   2011-08-09
 tags: politics space dreaming nasa neildegrassetyson
 ---
 Not much else to add to this video except the fact that Neil deGrasse Tyson is the man. We need to get other people to think the same way so we can rejuvenate not only this country but the whole world.

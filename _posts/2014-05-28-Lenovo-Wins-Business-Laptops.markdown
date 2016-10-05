@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Lenovo Wins Business Laptops Once Again"
-date:   2014-05-28 12:00:00 -0600
-image: "ThinkPad_Laptop.jpg"
+date:   2014-05-28
+banner_image: ThinkPad_Laptop.jpg
 tags: hardware lenovo review t440s thinkpad
 ---
 Over the years Lenovo has been churning out perfect business style laptops for a whole range of employees but with their latest model I think they have really nailed it. If I was running an IT division within any company I would be ordering the Lenovo T440s for every employee I have. I spent the last month with the T440s as my main work machine and after the initial setup the experience has been great.
 
-<!--break-->
+<!--more-->
 
 **Hardware**
 

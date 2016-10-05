@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Outlook 2011 for Mac and Notification Center"
-date:   2014-08-19 12:00:00 -0600
-image: "Outlook_Notifications.png"
+date:   2014-08-19
+banner_image: Outlook_Notifications.png
 tags: software notificationcenter officeformac outlook
 ---
 I started using my Mac full time (work and personal) and while most things just work right out of the box unfortunately there are always a few quirks. One of these quirks happens to be the notifications from Outlook.

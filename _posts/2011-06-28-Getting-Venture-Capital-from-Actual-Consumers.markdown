@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Venture Capital from Actual Consumers"
-date:   2011-06-28 12:00:00 -0600
+date:   2011-06-28
 tags: products ideas kickstarter money quirky
 ---
 Everyone out there has some idea that they think is going to be the next big hit. The difference is now it’s much easier to act upon these idea’s in today’s tech based world even in a struggling economy. Enter [Kickstarter](http://www.kickstarter.com/), a website with one goal. Get you money from actual consumers that like your idea/product so you can get it off the ground.

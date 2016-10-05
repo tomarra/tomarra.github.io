@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just What We Need, Another Social Network"
-date:   2011-06-28 12:00:00 -0600
+date:   2011-06-28
 tags: web google googleplus ui
 ---
 Looks like Google is going to try it’s hand again at some kind of social network. The landing page for [Google+](http://plus.google.com/) has just surfaced and with that it seems as though Google is rolling out some possible rebranding.

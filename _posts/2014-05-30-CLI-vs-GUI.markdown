@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "CLI vs. GUI"
-date:   2014-05-30 12:00:00 -0600
-image: "CLI_GUI.png"
+date:   2014-05-30
+banner_image: CLI_GUI.png
 tags: software cli git gui
 ---
 I was having a conversation at work and as usual the topic tends to wrap its way back to work related things. Specifically Git command line versus any Git GUI apps out there. There was an intern that was unsure about how to get his repo back into the state he would like so of course in a room full of engineers (and the fact you can do many things many different ways in Git) everyone had an answer. After a couple minutes of everyone telling them what to do I asked the question, “Your using the command line aren’t you”. That sparked a bit of contest from everyone else in the room as I expected. After calming the group down I said the same thing we just spent a few minutes talking about would have taken only a few button clicks in a GUI. At that point we quickly moved to a new subject as the intern’s went back to work.

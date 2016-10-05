@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The TouchPad is dead. Long live the TouchPad!"
-date:   2011-08-25 12:00:00 -0600
+date:   2011-08-25
 tags: hardware mobile products software android hp touchpad webos
 ---
 As I am sure everyone knows by now [HP killed off the TouchPad](http://www.engadget.com/2011/08/18/hp-will-discontinue-operations-for-webos-devices/) and all webOS related products last weekend and then decided to liquidate the TouchPad for just $99 for the 16GB model. Of course nobody is going to pass up a tablet, even a dead one, for that price so they sold out in a matter of minutes both online and in the brick and mortar stores. Now this was obviously HP trying to get rid of everything to get as much cash as possible because the [cost of materials is over $300](http://www.isuppli.com/Teardowns/News/Pages/HP-TouchPad-Carries-$318-Bill-of-Materials.aspx).

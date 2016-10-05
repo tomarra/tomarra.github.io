@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get Launchpad Under Control"
-date:   2011-07-29 12:00:00 -0600
+date:   2011-07-29
 tags: software launchpad launchpadcontrol lion macosx
 ---
 Seems like this is just becoming a dumping ground for good applications but I am sure some people won’t mind.

@@ -39,15 +39,14 @@ disqus:
 
 # Author information - author info at the bottom of the post
 author_name: "Tom Arra"
-author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
-author_url:  "http://justgoodthemes.com"
-author_location: "Chicago, Illinois"
-author_image: /images/authorimage.png
+author_bio: "Tom has over nine years of experience in software and product development. He currently is a Product Owner at BMW Technology Corporation in Chicago, Illinois."
+author_url:
+author_location:
+author_image:
 
 # Sidebar Add banner
-banner_url: "http://justgoodthemes.com"
-banner_image: images/banner.jpg
-
+banner_url:
+banner_image:
 
 # Social links in the site footer
 twitter_username: "tom_arra"

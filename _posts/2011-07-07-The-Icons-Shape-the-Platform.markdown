@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Icon's Shape the Platform"
-date:   2011-07-07 12:00:00 -0600
+date:   2011-07-07
 tags: mobile software android hp icons ios nokia ui wp7
 ---
 Mobile platforms. Just saying the phrase makes some people cringe due to the number of ecosystems out there. But with each ecosystem/platform comes a new UI. [WPCentral](http://www.wpcentral.com/smartphone-os-shapes) has an interesting article how how close each platform’s icon size/shape really is.

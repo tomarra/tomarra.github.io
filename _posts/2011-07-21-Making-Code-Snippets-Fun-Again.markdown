@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Code Snippets Fun Again"
-date:   2011-07-21 12:00:00 -0600
+date:   2011-07-21
 tags: software web kodenode rosettacode snippet
 ---
 Every programmer has their place to get code. Sometimes it’s just a simple Google search a away or maybe a you dive into your old projects to try and remember how you solved a particular problem last time. There have been programs and sites in the past that I have tried to use but none of them really seemed useful. Then a friend pointed me to [KodeNode](http://www.kodenode.com/).

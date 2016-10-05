@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Was Once Great, The Tale of RIM"
-date:   2011-07-10 12:00:00 -0600
+date:   2011-07-10
 tags: mobile blackberry burningplatform imessage ios ios5 nokia rim
 ---
 A couple weeks ago BGR [posted a letter](http://www.bgr.com/2011/06/30/open-letter-to-blackberry-bosses-senior-rim-exec-tells-all-as-company-crumbles-around-him/) from a RIM senior level employee. While it was not total shock to see the content it was interesting to see someone within RIM step up and admit they were in trouble. It was not long ago that Stephen Elop, CEO of Nokia, stepped up and admitted that [Nokia was on a burning platform](http://blogs.wsj.com/tech-europe/2011/02/09/full-text-nokia-ceo-stephen-elops-burning-platform-memo/) and that something had to change. While most people were running away from Nokia the leadership stepped up and came up with a plan to turn the company around. While we can see Nokia’s plan in action no one can see anything but scared executives in the RIM camp.

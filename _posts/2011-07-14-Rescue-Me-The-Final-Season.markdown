@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rescue Me - The Final Season"
-date:   2011-07-14 12:00:00 -0600
+date:   2011-07-14
 tags: tv dennisleary fx rescueme
 ---
 This week was the 7th and final season premier of Rescue Me on FX. While I didn’t start following the show back in 2004 when it premiered I got hooked after watching just a few episodes (from the 5th season) while channel surfing. I quickly realzied that I needed the rest of the back story and added the first 5 seasons to my Amazon wish list and slowly started picking them off. There are many TV show’s out there that I have wasted my time playing catch up just to be let down in the next season but the cast, and writers, of Rescue Me set the bar during season 1 and just kept rasing it.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inverted Scrolling?!? My laptop is not an iPad!"
-date:   2011-07-06 12:00:00 -0600
+date:   2011-07-06
 tags: software lion macosx rage scrolling
 ---
 I upgraded my MacBook Pro to the Golden Master release of Lion this morning and was treated to the delight of inverted scrolling. At first it was kind of cool but very quickly it got annoying. Good thing I had an external mouse lying around to fix the issue.

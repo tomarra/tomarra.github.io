@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Most Android users don't even know about the stock UI"
-date:   2013-03-23 12:00:00 -0600
-image: "Stock_Android_Experience.png"
+date:   2013-03-23
+banner_image: Stock_Android_Experience.png
 tags: software android ui
 ---
 The Android OS is great, in theory. The original thought behind Android was to create an open source mobile operating system that was free to use in order to get a basic OS standard in the mobile space. When Google bought the Android group it followed the path for a while. Most Android devices that came out all looked the same, software wise, and functioned the same. Slowly though OEM’s have started to preinstall their custom applications and have now started to re-skin the entire OS in order to fit their branding needs.

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "New Look, New Host, New Content (hopefully)"
-date:   2014-05-18 12:00:00 -0600
-image: "Wordpress_Azure.png"
+date:   2014-05-18
+banner_image: Wordpress_Azure.png
 tags: software web azure website
 ---
 I decided to jump in with both feet on this one so let’s see how it goes.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A little taste of Homebrew"
-date:   2012-01-01 12:00:00 -0600
+date:   2012-01-01
 tags: software homebrew mac macosx macports ports ruby
 ---
 I recently started using my personal MacBook Air for work. It’s a better piece of hardware then my company issued laptop and I prefer OS X over Windows everyday of the week. But since a lot of the software I use at work I don’t use at home I had to go through and install it all by hand. At least until I found [Homebrew](http://mxcl.github.com/homebrew/).

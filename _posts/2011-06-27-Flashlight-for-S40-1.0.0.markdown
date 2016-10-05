@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flashlight for S40 1.0.0"
-date:   2011-06-27 12:00:00 -0600
+date:   2011-06-27
 tags: mobile software flashlight s40 webapps
 ---
 It didn’t take long. Time to shamelessly plug my own work.
