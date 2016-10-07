@@ -30,7 +30,7 @@ navigation:
 - text: About
   url: /about/
 - text: Archive
-  url: /all/
+  url: /archive/
 - text: Tags
   url: /tags/
 
