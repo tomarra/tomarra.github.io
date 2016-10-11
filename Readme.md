@@ -13,9 +13,8 @@ The repo for my personal website. The site is built on [Jekyll](http://jekyllrb.
   - Restart Terminal
 - Make sure your documentation are not installed with Gems
   - `echo "gem: --no-document" >> ~/.gemrc`
-- Install Jekyll, Jekyll-Coffeescript and clone the repo
-  - `gem install jekyll`
-  - `gem install jekyll-coffeescript`
+- Install dependencies and clone the repo
+  - `bundle install`
 - From the command line run `jekyll serve` to start generate the files and start up the web server
 - Syntax
   - Pages are a mix of Markdown and HTML. Markdown is preferred but if special formatting is needed HTML can be used and mixed with with [Liquid](https://shopify.github.io/liquid/) formatting
@@ -46,6 +45,7 @@ Making the assumption that this is using DigitalOcean running Ubuntu 14
   - `gem install json`
   - `gem install jekyll-coffeescript`
   - `gem install therubyracer`
+  - `gem install jekyll-paginate`
 - Fix NGINX Settings
   - `sudo nano /etc/nginx/nginx.conf`
   - Set `server_names_hash_bucket_size` to 64
