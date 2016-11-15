@@ -8,7 +8,7 @@ I always have a couple little side projects that occupy the little spare time I 
 
 ### Introducing Bike Share Buddy
 
-{% include image_caption.html imageurl="/assets/images/Bike-Buddy-Screenshot.png" title="" caption="Bike Buddy Stations List" %}
+{% include image_caption.html imageurl="/assets/images/Bike-Buddy-Screenshot.png" title="Bike Buddy 1.0" caption="Bike Buddy Stations List" %}
 
 I wanted to create an app that was not only interesting for me to build but that other people would find useful. After doing some research I found that [Bixi](http://bixi.com) was an umbrella company that runs a lot of the bike sharing programs around the US (as well as Canada and the U.K.) and it just so happens that they have an API that's pretty standard across their deployments in different cities. I thought it would be a fun experiment to see if I could create an app that worked across many different cities so that users wouldn't have to download a new app for every city they wanted to visit. The idea and the app was simple but all the extra things it takes to get an app launched the right way really blindsided me.
 

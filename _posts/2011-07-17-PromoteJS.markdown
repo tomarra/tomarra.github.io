@@ -9,6 +9,8 @@ Currently I write more JavaScript then anything else and I love it. It’s a cra
 
 <!--more-->
 
-Enter [PromoteJS](http://promotejs.com/) and the Mozilla Developer Network (MDN). They are trying to promote full fledged developer documentation for JavaScript and get it to the top of the search engine result lists. Just spend a few minutes clicking around on the MDN site and you can see that this is a great campaign. Their documentation is top notch and should make web developer’s, heck any developer’s, life easier when trying to find out the details of just about anything in the JavaScript language.
+Enter PromoteJS and the Mozilla Developer Network (MDN). They are trying to promote full fledged developer documentation for JavaScript and get it to the top of the search engine result lists. Just spend a few minutes clicking around on the MDN site and you can see that this is a great campaign. Their documentation is top notch and should make web developer’s, heck any developer’s, life easier when trying to find out the details of just about anything in the JavaScript language.
 
 [MDN JavaScript Index](https://developer.mozilla.org/en/JavaScript)
+
+*Ninja Edit (11/15/2016): Seems like the PromoteJS website does not exist anymore so the link to it has been removed.*
