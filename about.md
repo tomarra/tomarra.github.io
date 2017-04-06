@@ -9,7 +9,7 @@ title: About Tom
 
 # Tom's Gear
 
-*Laptop* - MacBook Air (Mid 2011, MacBookAir4,2)
+*Laptop* - MacBook (Early 2016, MacBook9,1)
 
 *Tablet* – Apple iPad Air 2 (128GB)
 
