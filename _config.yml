@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# BASICS
 
 # Site title
 title: "TomArra.com"
@@ -14,14 +9,13 @@ description: "Just another personal website and blog"
 # Tagline near the site title
 tagline: "Thoughts, stories and ideas."
 
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "http://www.tomarra.com"
+
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
 
-sass:
-  sass_dir: _sass
-
-# The base hostname & protocol of your site for where absolute urls are needed
-url: "http://www.tomarra.com"
+# SITE CONTENT
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -34,9 +28,6 @@ navigation:
 - text: Tags
   url: /tags/
 
-# The shortname for your Disqus site to enable comments.
-disqus:
-
 # Author information - author info at the bottom of the post
 author_name: "Tom Arra"
 author_bio: "Tom has over nine years of experience in software and product development. He currently is a Senior Product Owner at BMW Technology Corporation in Chicago, Illinois."
@@ -44,29 +35,40 @@ author_url:
 author_location:
 author_image:
 
-# Sidebar Add banner
+# Sidebar Ad banner
 banner_url:
 banner_image:
 
 # Social links in the site footer
 twitter_username: "tom_arra"
 facebook_username: "tomarra"
-googleplus_username:
 github_username: "tomarra"
 flickr_username: "tom_arra"
+linkedin_username: "tomarra"
 codepen_username:
 dribbble_uername:
 medium_username:
 instagram_username:
 pinterest_username:
-linkedin_username: "tomarra"
+googleplus_username:
 
-# http://jekyllrb.com/docs/pagination/
-paginate: 5
-paginate_path: '/blog/page:num/'
-gems: [jekyll-paginate]
+# PAGE GENERATION
 
+# Formatters
 permalink: pretty
 markdown: kramdown
 kramdown:
     auto_ids: false
+
+# Sass compliation
+sass:
+  sass_dir: _sass
+
+# Pagination
+paginate: 5
+paginate_path: '/blog/page:num/'
+
+# Gems for GitHub
+gems:
+  - jekyll-paginate
+  - jekyll-coffeescript
