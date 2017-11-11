@@ -13,7 +13,7 @@ title: About Tom
 
 *Tablet* – Apple iPad Pro 10.5-Inch (256GB, Wi-Fi + Celluar)
 
-*Cell Phone* – Apple iPhone 7 (128GB, Black, AT&T)
+*Cell Phone* – Apple iPhone X (256GB, AT&T)
 
 *Watch* - Apple Watch Series 3 (Silver Aluminum, GPS)
 
