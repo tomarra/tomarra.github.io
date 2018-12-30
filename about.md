@@ -11,12 +11,12 @@ title: About Tom
 
 *Laptop* - MacBook (Early 2016, MacBook9,1)
 
-*Tablet* – Apple iPad Pro 10.5-Inch (256GB, Wi-Fi + Celluar)
+*Tablet* – Apple iPad Pro 11-Inch (512GB, Wi-Fi + Celluar)
 
-*Cell Phone* – Apple iPhone X (256GB, AT&T)
+*Cell Phone* – Apple iPhone Xs (256GB, AT&T)
 
-*Watch* - Apple Watch Series 3 (Silver Aluminum, GPS)
+*Watch* - Apple Watch Series 4 (Silver, Aluminum, LTE)
 
-*Camera* – Nikon D5300
+*Camera* – Nikon D5300 (DSLR), Sony A6000 (Mirrorless)
 
-*eBook Reader* – Amazon Kindle Paperwhite (2nd Generation)
+*eBook Reader* – Amazon Kindle Oasis 2
