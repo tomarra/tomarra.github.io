@@ -2,6 +2,7 @@
 layout: post
 title:  "Curling"
 date:   2019-04-01
+banner_image: Curling.jpg
 tags: curling wcc windycitycurling
 ---
 After trying to get my wife to watch Curling with me during the winter Olympics too many times, she purchased a Groupon for a Learn to Curl session at [Chicago Curling Club](www.curlingchicago.org/). That was three years ago. In that time I've gotten the chance to do so much all because of curling. This next month will wrap up my third season and will also close one chapter in my club's history. It's been quite a ride overall but this year has been exceptional.
