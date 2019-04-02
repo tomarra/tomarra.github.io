@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Curling"
-date:   2019-04-01
+title:  "Curling, a Season in Review"
+date:   2019-04-02
 banner_image: Curling.jpg
 tags: curling wcc windycitycurling
 ---
