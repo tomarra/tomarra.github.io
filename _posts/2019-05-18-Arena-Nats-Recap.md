@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019 USCA Arena Nationals Recap"
-date:   2019-04-02
+date:   2019-05-18
 banner_image: 2019ArenaNatsRecap.jpeg
 tags: curling wcc windycitycurling arenanats
 ---
@@ -13,6 +13,8 @@ For the week of May 5th 2019 I got to be a full time professional athlete. Just 
 * I had the privilege of meeting and competing with some of the best arena level clubs/players in the country.
 
 While you typically take a look at things one game at a time, this bigger picture wasn't lost on me during the week. Here is what the week entailed.
+
+<!--more-->
 
 **Pre Tournament Practice** - This is something I have never had prior experience with. We had 6 minutes to practice on each of the sheets, 5 in total. During this 30 minute session we got a chance to feel what the ice was like and see how well it curled (spoiler it was awesome). We have never had to work under a clock before so it was quite chaotic but we got our job done.
 
@@ -30,10 +32,8 @@ While you typically take a look at things one game at a time, this bigger pictur
 
 **Draw 7 (B Event Finals) vs. Lone Star** - When we arrived at the arena the Lone Star team found us right away. They had talked to the officials and found out that the B Event was solely a friendly play down, no awards. This was news to us as well. It seems that this was the first year for this format and it was more of an experiment. The reason this was important is because they had a flight to catch at 4:30PM, the game was at 1:00PM. We chatted quickly and came up with a plan. We play 6 ends and then shake. If we are tied after 6 (which was our specialty over the week) then we would have the leads do a warm draw to determine the winner. We had to stick with the leads doing it so that we preserved the throwing order and were not disqualified for a rule violation. To be honest, both teams were a bit out of gas. We both played well and in the end Lone Star got the better of us. We took our loss and ended the tournament with a record of 4-3.
 
-Like I said, it was a whirlwind of a week. But keep in mind that this was only half of it. While the above was the schedule and recap for the men's team we had a women's team there as well.
+Like I said, it was a whirlwind of a week. But keep in mind that this was only half of it. While all the games above was the schedule and recap for the men's team we had a women's team there as well. If anything the women actually did better then us, reaching the A event quaterfinals. They may not have had the drama that we did in what seemed like every game but it was still great to see them out there representing our club so well.
 
+We were there to support them but we also live streamed (or Streamlined™) them for our club back home. This was something that I helped do a couple years back at Arena Nationals when they were in Norte Dame but this year we took it to a whole new level. All 12 games (7 men, 5 women) were streamed via Facebook live. Throughout the week this took on a life of it's own. We added in segments during the breaks, games to keep the audience entertained, we even provided some actual curling commentary once in a while too (imagine that). We kept getting great feedback from our club members as well as other clubs that were there that hadn't even thought of it. By the end of the week the seats on the glass of the bar were filled with club members streaming games to clubs all over the country. We even ended up on the [local news for a few seconds](http://www.fox29.com/news/teams-set-to-compete-in-arena-national-curling-championship).
 
-
-Girls
-
-Streams
+I drove home after this week completely exhausted and sore. But knowing that we were able to not just have a good time but also represent our club well was worth it. This was the last time we as a club are going to be eligible for this event as were moving to our own dedicated facility this month. It's exciting but also bittersweet. I had such a good time that I would love to go back. That just makes me want to set my sights on USCA Club Nationals now in order to get back to this level of play. I'm nervous as to what it will take to get there but at the same time I can't wait.
