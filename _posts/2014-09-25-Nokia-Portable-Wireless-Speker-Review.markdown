@@ -27,7 +27,7 @@ The overall sound that comes from the speaker is good, but a lot of it depends o
 
 I have found a few different places in the house that make the speaker sound better then others. Funny enough attached to the freezer door in the basement is actually one of them. And because the base is so close magnet for the speaker it sticks to anything metal surprisingly well.
 
-![Speaker on Freezer]({{ site.baseurl }}/assets/images/Speaker_On_Freezer.jpg)
+![Speaker on Freezer]({{ site.baseurl }}/images/posts/Speaker_On_Freezer.jpg)
 
 There are other surfaces, like my kitchen table, that just doesn’t reverb the same way. It makes the sound feel flat and the listening experience is worse for it.
 
