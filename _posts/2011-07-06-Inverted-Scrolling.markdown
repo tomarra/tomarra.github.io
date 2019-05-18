@@ -8,6 +8,6 @@ I upgraded my MacBook Pro to the Golden Master release of Lion this morning and 
 
 To get scrolling back to the trusty way it has been since…forever just plug in a USB mouse or connect a Bluetooth mouse. Then in System Preferences go to Mouse and uncheck the checkbox at the top.
 
-![Scrolling Setting]({{ site.baseurl }}/assets/images/Scrolling_Setting.png)
+![Scrolling Setting]({{ site.baseurl }}/images/posts/Scrolling_Setting.png)
 
 The setting will apply to the external mouse but it will also carry over to the trackpad.
