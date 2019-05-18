@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Bike Share Buddy 1.6.2 Update"
+date:   2019-05-20
+tags: bikesharebuddy ios iosdev
+---
+While normally a x.x.2 release may not be worthy of a post I feel like this one is as it definitely took some work on my end. I had a goal to start to remove complexity from my code base and this was my first stab at it. Here is what was done for this release.
+
+* Updated to newest Xcode (10.2) and Swift (5) versions. Not a ton of work needed for this but just knowing Apple it's always good to keep up with the latest and greatest tools otherwise it just becomes way too much work later on.
+* Remove Alamofire and ObjectMapper. While this wasn't a lot of extra code it was dependencies. When things like Xcode and Swift updated I would always have to wait for my dependencies to update as well. With something as big as Alamofire this always took a lot of time. The good thing is that Swift has evolved so much that the need for Alamofire has pretty much gone away at least for the basics. The even better thing is that when looking at the [commit](https://github.com/CloudgateStudios/BikeBuddy/commit/218e022b2d0f9a24a84a04ef788c239292d88703) you can see that all of the changes were done in the BikeBuddyKit framework, not the iOS app. It really felt good seeing that knowing that my app setup/architecture did exactly what it was supposed to do.
+* Move back to GitHub. I originally had this all on private repo's in BitBucket (since they were free). This was mostly because I did have some API keys that were part of the project. Well I removed those dependencies and the API's that I use now don't require keys so no need to keep things in the dark anymore. 
