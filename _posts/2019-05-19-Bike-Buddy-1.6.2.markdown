@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bike Share Buddy 1.6.2 Update"
-date:   2019-05-20
+date:   2019-05-19
 tags: bikesharebuddy ios iosdev
 ---
 While normally a x.x.2 release may not be worthy of a post I feel like this one is as it definitely took some work on my end. I had a goal to start to remove complexity from my code base and this was my first stab at it. Here is what was done for this release.
