@@ -9,14 +9,14 @@ title: About Tom
 
 # Tom's Gear
 
-*Laptop* - MacBook (Early 2016, MacBook9,1)
+*Laptop* - MacBook (2017, MacBook10,1)
 
 *Tablet* – Apple iPad Pro 11-Inch (512GB, Wi-Fi + Celluar)
 
-*Cell Phone* – Apple iPhone Xs (256GB, AT&T)
+*Cell Phone* – Apple iPhone 11 Pro (256GB)
 
-*Watch* - Apple Watch Series 4 (Silver, Aluminum, LTE)
+*Watch* - Apple Watch Series 5 (Silver, Aluminum, LTE)
 
-*Camera* – Nikon D5300 (DSLR), Sony A6000 (Mirrorless)
+*Camera* – Sony A6400
 
 *eBook Reader* – Amazon Kindle Oasis 2
