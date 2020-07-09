@@ -11,6 +11,8 @@ title: About Tom
 
 *Laptop* - MacBook (2017, MacBook10,1)
 
+*Desktop* - [Custom Tower @ PCPartPicker](https://pcpartpicker.com/user/tarra3/saved/ytkYcf)
+
 *Tablet* – Apple iPad Pro 11-Inch (512GB, Wi-Fi + Celluar)
 
 *Cell Phone* – Apple iPhone 11 Pro (256GB)
