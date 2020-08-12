@@ -69,6 +69,6 @@ paginate: 5
 paginate_path: '/blog/page:num/'
 
 # Gems for GitHub
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-coffeescript

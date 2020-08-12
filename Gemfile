@@ -1,7 +1,16 @@
-# frozen_string_literal: true
-# A sample Gemfile
-source 'https://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
-gem "jekyll-coffeescript"
-gem "jekyll-paginate"
+source "https://rubygems.org"
+ruby RUBY_VERSION
+
+gem "github-pages", group: :jekyll_plugins
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+   gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-paginate"
+   gem "jekyll-sitemap"
+   gem "jekyll-coffeescript"
+end
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
