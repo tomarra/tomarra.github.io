@@ -16,7 +16,7 @@ If I had a choice I would stay with BMW. I really enjoyed what we were working o
 
 As for whats next for me, first a break. The last six years were fun but also very long. I was able to get the month of December off before starting my new job. It's been a while since I have been able to actually take a break and enjoy the holiday time so it's going to be a welcomed change. 
 
-That being said, I have both nervous and excited to start as the Engineering Manager at [Very Good Ventures](https://verygood.ventures). Going from a decade of large corporations to a small shop is going to be a bit of a shock to the system but I'm ready to challenge myself and help VGV grow out of startup mode and into a big time player in the Flutter community.
+That being said, I have both nervous and excited to start as the Head of Program Management at [Very Good Ventures](https://verygood.ventures). Going from a decade of large corporations to a small shop is going to be a bit of a shock to the system but I'm ready to challenge myself and help VGV grow out of startup mode and into a big time player in the Flutter community.
 
 
 
