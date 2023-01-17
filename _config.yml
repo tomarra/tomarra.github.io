@@ -45,12 +45,9 @@ facebook_username: "tomarra"
 github_username: "tomarra"
 smugmug_username: "tomarra"
 linkedin_username: "tomarra"
-codepen_username:
-dribbble_uername:
-medium_username:
-instagram_username:
-pinterest_username:
-googleplus_username:
+mastodon_username: "tomarra"
+mastodon_servername: "mastodon.social"
+instagram_username: tom_arra
 
 # PAGE GENERATION
 
