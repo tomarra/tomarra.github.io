@@ -10,7 +10,7 @@ A few months back myself and a few of my friends decided to start a [podcast](ht
 
 Let me preface this with the fact that I have never done any audio editing in the past. That being said, lots of reading and research went into how the hell do we actually record something that will sound halfway decent. 
 
-The original thought for the podcast was a roundtable. Literally the 4 of us sitting in the same room at the same table and just having a discussion. I had a [Blue Yeti](http://www.bluemic.com/products/yeti/) that I had used for work in the past that set to the Omnidirectional mode would have done just that. The more and more we got to figuring out scheduling though it was clear that we were going to have to have the ability to record remotely which cut this idea out.
+The original thought for the podcast was a round table. Literally the 4 of us sitting in the same room at the same table and just having a discussion. I had a [Blue Yeti](http://www.bluemic.com/products/yeti/) that I had used for work in the past that set to the Omnidirectional mode would have done just that. The more and more we got to figuring out scheduling though it was clear that we were going to have to have the ability to record remotely which cut this idea out.
 
 After a bit more reading it was clear that the best way out, and what most good quality podcasts do, is to have each person record their own audio stream. A lot of articles out there talk about using Skype and Call Recorder for this and then just sync it all up in the end during the editing phase. Again, not an audio editor so that seemed complicated. The solution, throw money at the problem and let someone else do the hard work. That's where [Cast](https://tryca.st) comes in.
 
