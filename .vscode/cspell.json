@@ -7,10 +7,18 @@
     "disqus",
     "endcapture",
     "endunless",
+    "engadget",
     "forloop",
+    "googleplus",
+    "hulu",
     "kickstarter",
+    "rebranding",
     "smugmug",
-    "tagcloud"
+    "startover",
+    "swiffy",
+    "tagcloud",
+    "webapps",
+    "xoom"
   ],
   "ignorePaths": [
     "vendor/bundle/**"
