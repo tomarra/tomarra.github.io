@@ -15,7 +15,7 @@ jobs:
       - name: 🅰️ Check spelling
         uses: zwaldowski/cspell-action@v1
         with:
-          paths: "**/*.{md,html}"
+          paths: "**/*.{markdown,md,html}"
           config: .vscode/cspell.json
       - name: ▶️ Jekyll Build
         run: bundle exec jekyll build
