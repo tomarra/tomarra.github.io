@@ -1,0 +1,21 @@
+name: Pull Request
+on: pull_request
+
+jobs:
+  ci:
+    name: Continuous Integration for PR
+    runs-on: ubuntu-latest
+    steps:
+      - name: ✅ Checkout Repo
+        uses: actions/checkout@v2
+      - name: 💎 Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: 🅰️ Check spelling
+        uses: zwaldowski/cspell-action@v1
+        with:
+          paths: "**/*.{md,html}"
+          config: .vscode/cspell.json
+      - name: ▶️ Jekyll Build
+        run: bundle exec jekyll build

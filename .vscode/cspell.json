@@ -1,0 +1,16 @@
+{
+  "version": "0.2",
+  "enabled": true,
+  "language": "en",
+  "words": [
+    "arra",
+    "endcapture",
+    "endunless",
+    "forloop",
+    "smugmug",
+    "tagcloud"
+  ],
+  "ignorePaths": [
+    ".github/workflows/**"
+  ]
+}
