@@ -9,16 +9,16 @@ title: About Tom
 
 # Tom's Gear
 
-*Laptop* - MacBook Pro M1 (2020, MacBookPro17,1)
+*Laptop* - MacBook Air M2 (2022, Mac14,2)
 
 *Desktop* - [Custom Tower @ PCPartPicker](https://pcpartpicker.com/b/dkp8TW)
 
-*Tablet* – Apple iPad Pro 12.9-Inch (512GB, Wi-Fi + Celluar)
+*Tablet* – Apple iPad Pro 11-Inch (512GB, Wi-Fi + Cellular, M1)
 
-*Cell Phone* – Apple iPhone 12 Mini (256GB)
+*Cell Phone* – Apple iPhone 14 Pro
 
-*Watch* - Apple Watch Series 6 (Silver, Aluminum, LTE)
+*Watch* - Apple Watch Ultra
 
 *Camera* – Sony A6400
 
-*eBook Reader* – Amazon Kindle Oasis 2
+*eBook Reader* – Amazon Kindle Paperwhite 5
