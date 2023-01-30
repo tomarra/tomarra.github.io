@@ -11,6 +11,7 @@ jobs:
       - name: 💎 Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.1.2'
           bundler-cache: true
       - name: 🅰️ Check spelling
         uses: zwaldowski/cspell-action@v1
