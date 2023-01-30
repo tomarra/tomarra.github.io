@@ -11,7 +11,7 @@ Over the years Lenovo has been churning out perfect business style laptops for a
 
 **Hardware**
 
-While not a slim as the ultrabooks being sold currently in stores its still a smaller and lighter footprint then past Lenovo do-it-all machines. With a 14 inch screen I don’t know how much smaller they could have made it as there is not a lot of extra plastic around the screen or keyboard. It’s easy to throw into a backpack and almost forget that it’s there.
+While not a slim as the "ultra books" being sold currently in stores its still a smaller and lighter footprint then past Lenovo do-it-all machines. With a 14 inch screen I don’t know how much smaller they could have made it as there is not a lot of extra plastic around the screen or keyboard. It’s easy to throw into a backpack and almost forget that it’s there.
 
 **Ports**
 
@@ -41,7 +41,7 @@ The other thing this removes is the old school buttons above the trackpad for th
 
 With a Intel Core i5, 8GB of RAM and a 256GB SSD I can’t see many tasks that this thing won’t handle well. Yes hardcore developers are going to want an i7 processor and probably more RAM but even doing simple development in Visual Studio and WebStorm have proven to be a great experience on this device.
 
-**Wrapup**
+**Summary**
 
 Between the array of inputs, a touchscreen, and very good performance I can see this laptop being a great all around fit for just about any employee. From the traveling business person to the R&D engineers I haven’t found anyone who hasn’t enjoyed working on it yet.
 

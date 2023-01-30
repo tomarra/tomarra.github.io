@@ -11,6 +11,6 @@ Masters of Doom lays out the story of what is easily the best programming duo of
 
 I personally love any biography books which take place in the early days of the PC industry as it’s something that tends to really get lost in today’s fast moving mobile world. A lot of people don’t remember how crazy 3D graphics were back in the 90’s. While this book doesn’t get into the details on how every new game engine was developed you do get a sense of how in awe everyone was of John Carmack and his Doom/Quake engines.
 
-Overall this was a quick read, but very good. Highly recommended especially if you ever played Wolfenstien 3D, Doom, or Quake.
+Overall this was a quick read, but very good. Highly recommended especially if you ever played Wolfenstein 3D, Doom, or Quake.
 
 [Masters of Doom on Amazon](http://www.amazon.com/gp/product/0812972155/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972155&linkCode=as2&tag=tomarcom-20&linkId=YSXB4H3NOQWXDFCS)
