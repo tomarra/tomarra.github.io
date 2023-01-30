@@ -13,6 +13,6 @@
     "tagcloud"
   ],
   "ignorePaths": [
-    ".github/workflows/**"
+    "vendor/bundle/**"
   ]
 }
