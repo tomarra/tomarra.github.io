@@ -13,7 +13,7 @@ There have been many times that I get a phone call just at the wrong time. Mostl
 
 **First Time Use**
 
-After a very simple registration procedure, you just need to verify your phone number, the application hooks up to your calendars and contacts. Access to the calendar is used to automagically set your availability while contacts access is to see who in your phone book is already using Tacit. Since the application is still pretty new the user base is pretty low. In order to help this community grow there is a simple “Invite” button next to any contacts that are not in the system.
+After a very simple registration procedure, you just need to verify your phone number, the application hooks up to your calendars and contacts. Access to the calendar is used to auto-magically set your availability while contacts access is to see who in your phone book is already using Tacit. Since the application is still pretty new the user base is pretty low. In order to help this community grow there is a simple “Invite” button next to any contacts that are not in the system.
 
 **Security**
 
