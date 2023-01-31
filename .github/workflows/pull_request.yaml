@@ -1,5 +1,8 @@
 name: Pull Request
+
 on: pull_request
+
+concurrency: preview-${{ github.ref }}
 
 jobs:
   ci:
@@ -21,3 +24,7 @@ jobs:
           incremental_files_only: false
       - name: ▶️ Jekyll Build
         run: bundle exec jekyll build
+      - name: Deploy Preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./build/
