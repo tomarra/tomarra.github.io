@@ -1,9 +1,7 @@
 # TomArra.com
 
-<!--[![Build Status](https://travis-ci.org/tomarra/tomarra.com.svg?branch=master)](https://travis-ci.org/tomarra/tomarra.com)-->
-
 ## About
-The repo for my personal website. The site is built on [Jekyll](http://jekyllrb.com) and is running a modified version of the [Slate theme](https://github.com/jasoncostello/slate). The actual site is hosted through GitHub Pages and can be accessed by navigating to [http://www.tomarra.com](http://www.tomarra.com).
+The repo for my personal website. The site is built on [Jekyll](http://jekyllrb.com) and is running a modified version of the [BlogInn theme](https://justgoodthemes.com/ghost-themes/bloginn/). The actual site is hosted through GitHub Pages and can be accessed by navigating to [http://www.tomarra.com](http://www.tomarra.com).
 
 ## Run Locally
 A lot of this is covered in the main GitHub help guide which can be found [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
