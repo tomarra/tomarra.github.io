@@ -12,4 +12,4 @@ I got to moving all my posts over to markdown files and started by hosting at [G
 
 So now at this point all I have to do is make a post, check it in to [this GitHub repo](https://github.com/tomarra/tomarra.github.io) and it auto deploys to my DigitalOcean droplet. All of this for just $5 a month. Don't know how to beat that given the flexibility I now have.
 
-*Ninja edit (Feb 2023): The repo name/url has changed since moving to GitHub pages and has been updated to refelect this.*
+*Ninja edit (Feb 2023): The repo name/url has changed since moving to GitHub pages and has been updated to reflect this.*
