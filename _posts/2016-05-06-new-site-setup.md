@@ -10,4 +10,6 @@ I found myself not liking the WordPress backend and admin tools as compared to w
 
 I got to moving all my posts over to markdown files and started by hosting at [GitHub Pages](https://pages.github.com). Overall its a great resource for simple hosting but as usual I wanted something a bit more custom. After hearing good things about [DigitalOcean](https://www.digitalocean.com) I then happened upon an awesome [example setup](http://petemichaud.github.io/2013/09/05/multisite-server-jekyll-digitalocean.html) and from there it was easy.
 
-So now at this point all I have to do is make a post, check it in to [this GitHub repo](https://github.com/tomarra/tomarra.com) and it auto deploys to my DigitalOcean droplet. All of this for just $5 a month. Don't know how to beat that given the flexibility I now have.
+So now at this point all I have to do is make a post, check it in to [this GitHub repo](https://github.com/tomarra/tomarra.github.io) and it auto deploys to my DigitalOcean droplet. All of this for just $5 a month. Don't know how to beat that given the flexibility I now have.
+
+*Ninja edit (Feb 2023): The repo name/url has changed since moving to GitHub pages and has been updated to refelect this.*
