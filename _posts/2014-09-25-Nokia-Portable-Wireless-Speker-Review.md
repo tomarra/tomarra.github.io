@@ -15,7 +15,7 @@ The Nokia MD-12 is their new portable wireless speaker. It’s quite small, come
 
 **Look and Feel**
 
-I wanted something that I could easily take around the house or outside easily. A lot of speakers on the market today are either weird shapes ([Beats Pill](http://www.beatsbydre.com/speakers/beats-pill-2.0.html)) or are very heavy ([Bose SoundLink](http://www.bose.com/controller?url=/shop_online/digital_music_systems/bluetooth_speakers/soundlink_wireless_speaker/index.jsp)). The Nokia is a little bit bigger and heavier then a hockey puck. It’s easy to pick up and carry over to the next room without even thinking about it.
+I wanted something that I could easily take around the house or outside easily. A lot of speakers on the market today are either weird shapes ([Beats Pill](https://www.beatsbydre.com/support/speakers/pill-plus)) or are very heavy ([Bose SoundLink](http://www.bose.com/controller?url=/shop_online/digital_music_systems/bluetooth_speakers/soundlink_wireless_speaker/index.jsp)). The Nokia is a little bit bigger and heavier then a hockey puck. It’s easy to pick up and carry over to the next room without even thinking about it.
 
 The feature set here is minimal but its enough to get the job done. In the front you have a simple power button with LED indicator lights just under the speaker grille. In the back there is a Micro USB port for charging and a 3.5mm headphone jack so any device can use the speaker. This headphone jack is starting to become the standard but for many years bluetooth speakers only had one way to connect to them which was a giant pain in the ass when a friend wanted to use the speaker. Of course if you have NFC then pairing is a breeze as the speaker has it built in.
 
@@ -33,6 +33,8 @@ There are other surfaces, like my kitchen table, that just doesn’t reverb the 
 
 **Wrap up**
 
-Overall for my needs the Nokia Portable Wireless Speaker ticks all the marks I has set for myself. On top of that the price was right, only $50 from the [Microsoft Store](http://www.microsoftstore.com/store/msusa/en_US/pdp/Nokia-MD-12-Portable-Wireless-Speaker/productID.300367000). By no means is it the best speaker on the market. Sound quality and look and feel are solid but not “high end”. In the end I don’t think that’s what they were going for here. For your money you get a solid Bluetooth speaker with a great battery and that get’s the job done.
+Overall for my needs the Nokia Portable Wireless Speaker ticks all the marks I has set for myself. On top of that the price was right, only $50 from the Microsoft Store. By no means is it the best speaker on the market. Sound quality and look and feel are solid but not “high end”. In the end I don’t think that’s what they were going for here. For your money you get a solid Bluetooth speaker with a great battery and that get’s the job done.
 
 Image Credit – [Microsoft](http://www.microsoft.com/en/mobile/accessory/md-12/)
+
+*Nina Edit (Feb 2023) - Removed the link to the Microsoft Store as this is no longer available for purchase.*
