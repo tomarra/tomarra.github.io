@@ -22,7 +22,7 @@ I use Podcasts to catch up on news and learn more about the industry that I make
 * [Accidental Tech Podcast](http://www.atp.fm/)
 * [Upgrade](http://relay.fm/upgrade)
 * [Debug](http://www.imore.com/debug)
-* [Wait, Wait, Don’t Tell Me](http://www.npr.org/rss/podcast/podcast_detail.php?siteId=344098540)
+* [Wait, Wait, Don’t Tell Me](https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me)
 
 Now time for a small side rant. There are lots of different way’s to listen to Podcasts. Most people fall into one of 2 buckets, mostly due to convince. Either Apple’s Podcasts through iTunes and their Podcasts app on iOS because it’s built in or Stitcher Radio because it’s free on the App Store and Google Play. If you do get into Podcasts, **don’t use Stitcher**.
 

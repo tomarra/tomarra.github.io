@@ -12,3 +12,16 @@ A lot of this is covered in the main GitHub help guide which can be found [here]
    * If you get an error install bundle via gem - `gem install bundler`
 3. From the workspace install the needed dependencies via bundler - `bundle install`
 4. To build and run the site just execute `bundle exec jekyll serve` and then open your browser to [http://localhost:4000](http://localhost:4000)
+
+## Housekeeping
+
+There are a few things that are automated on the repo in order to make sure everything is in good standing overall.
+
+### Spell Checker
+
+As part of the [PR/CI process](https://github.com/tomarra/tomarra.github.io/blob/master/.github/workflows/pull_request.yaml), a spell checker is ran on the entire codebase. Any errors on the checker should be fixed or added to the [cspell config](https://github.com/tomarra/tomarra.github.io/blob/master/.vscode/cspell.json) so it can pass. All items in the cspell config should be lowercase.
+
+### Link Checker
+
+On a daily basis there is a action that runs called [Site Link Check](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml) that checks the links in all `.md` and `.html` files to ensure they are all working.
+
