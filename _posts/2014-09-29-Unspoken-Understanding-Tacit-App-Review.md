@@ -32,6 +32,8 @@ This is definitely a 1.0 application, it has lots of room to grow. I know this n
 
 **Availability**
 
-So here is one really awesome thing about Tacit. No matter what smartphone platform your running, it’s covered! That’s not something you usually see in today’s market.  So feel free to grab your friends phone and download the app for them. There are applications for Windows Phone 8.0 and up, Android 4.1 and up, and iOS 7.0 and up. Go [here](http://www.gettacit.com/download-tacit/) to download Tacit for your device.
+So here is one really awesome thing about Tacit. No matter what smartphone platform your running, it’s covered! That’s not something you usually see in today’s market.  So feel free to grab your friends phone and download the app for them. There are applications for Windows Phone 8.0 and up, Android 4.1 and up, and iOS 7.0 and up. Go here (link removed) to download Tacit for your device.
 
 Image Credit – [Tacit on Facebook](https://www.facebook.com/gettacit)
+
+*Ninja Edit (Feb 2023) - Removed the link to the Tacit download page as it is no longer available.*
