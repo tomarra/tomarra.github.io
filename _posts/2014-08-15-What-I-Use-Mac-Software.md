@@ -11,7 +11,7 @@ Here is the software I use to make the most of out Mac.
 
 <!--more-->
 
-[Lock Me Now](https://itunes.apple.com/us/app/lock-me-now/id464265594?mt=12) – In a work environment you have to have the ability to quickly lock your device so you can run to a meeting. This has been built into Windows for years but it’s still a giant pain on a Mac. With Lock Me Now you can set a universal keyboard shortcut that does a quick and painless lock. To match what I have on Windows (Windows Key + L) I have mine setup to ⌘ + L.
+Lock Me Now – In a work environment you have to have the ability to quickly lock your device so you can run to a meeting. This has been built into Windows for years but it’s still a giant pain on a Mac. With Lock Me Now you can set a universal keyboard shortcut that does a quick and painless lock. To match what I have on Windows (Windows Key + L) I have mine setup to ⌘ + L.
 
 [Scroll Reverser](http://pilotmoon.com/scrollreverser/) – I love the “natural” scrolling on the trackpad of my MacBook Air but it drives me nuts when I plug in an external mouse. Scroll Reverser allows me to set the trackpad to “natural” scrolling and my mouse to “reverse” scrolling at the same time. This makes sure no matter how I choose to interact with my machine I won’t be ripping my hair out wondering why my mouse is going in the opposite direction.
 
@@ -24,3 +24,5 @@ Here is the software I use to make the most of out Mac.
 [OneDrive](https://itunes.apple.com/us/app/onedrive/id823766827?mt=12) – Again being a company man. But with the combination of Office365 and OneDrive I know that I have the full office suite and all of my files anywhere I go. A free OneDrive account gets you 15GB of storage while a Office365 subscription gets you 1TB.
 
 Image Credit: [iMacLand](http://www.imacland.com/)
+
+*Ninja Edit (Feb 2023) - Removed link to Lock Me Now as it is no longer available.*

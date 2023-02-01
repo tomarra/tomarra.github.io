@@ -13,4 +13,6 @@ Kickstarter Project’s I have helped support include
 * [Camera Lens Cap Holder](http://www.kickstarter.com/projects/293194835/camera-lens-cap-holder)
 * [Infinite Loop Tablet & Smartphone Stand](http://www.kickstarter.com/projects/1851768099/the-infinite-loop-tablet-and-smartphone-stand)
 
-Another similar site to check out is [Quirky](http://www.quirky.com/). While Kickstarter is more open ended Quirky really helps out the inventory with design & production issues. It’s also home to the [PowerCurl](https://shop.quirky.com/collections/power-supply-docking-stations/products/powercurl-pop?variant=22135988483) which I helped support.
+Another similar site to check out is Quirky. While Kickstarter is more open ended Quirky really helps out the inventory with design & production issues. It’s also home to the PowerCurl which I helped support.
+
+*Ninja Edit (Feb 2023) - Removing the links for Quirky and PowerCurl as they no longer exist. The V2 of PowerCurl is available on [Amazon](https://www.amazon.com/Quirky-Powercurl-Organizer-Black-PPRCP-85BK/dp/B00KFS5UWU) though.*

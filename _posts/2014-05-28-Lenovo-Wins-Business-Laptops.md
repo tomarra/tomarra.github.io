@@ -45,4 +45,6 @@ With a Intel Core i5, 8GB of RAM and a 256GB SSD I can’t see many tasks that t
 
 Between the array of inputs, a touchscreen, and very good performance I can see this laptop being a great all around fit for just about any employee. From the traveling business person to the R&D engineers I haven’t found anyone who hasn’t enjoyed working on it yet.
 
-Image Credit: [Geek.com](http://www.geek.com/wp-content/uploads/2008/12/thinkpad_sl300_01.jpg)
+Image Credit: Geek.com
+
+*Ninja Edit (Feb 2023) - Removed the link to the image credit as it is broken*

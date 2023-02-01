@@ -12,7 +12,7 @@ I have been on the outlook for that mysterious MacBook Pro update that the entir
 
 **The iPad is actually really capable**
 
-Note that I said new machine there, not new laptop. That's because I did really try to make an iPad work for me full time. Over the last month or so I have been using my iPad Air 2 in a [Logitech keyboard case](https://www.amazon.com/gp/product/B01IFWXJYS/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) and it has been truly a different iPad experience then I have ever had before. Somehow when an iPad get's paired with an external keyboard it becomes a completely different device. All of a sudden this fun based gadget now feels like a productivity tool like it never has in the past. And keep in mind this is with a 9.7 inch screen! Like I said on [Twitter](https://twitter.com/tom_arra/status/782720967508238339) the 12.9 inch iPad Pro now makes much more sense to me.
+Note that I said new machine there, not new laptop. That's because I did really try to make an iPad work for me full time. Over the last month or so I have been using my iPad Air 2 in a Logitech keyboard case and it has been truly a different iPad experience then I have ever had before. Somehow when an iPad get's paired with an external keyboard it becomes a completely different device. All of a sudden this fun based gadget now feels like a productivity tool like it never has in the past. And keep in mind this is with a 9.7 inch screen! Like I said on [Twitter](https://twitter.com/tom_arra/status/782720967508238339) the 12.9 inch iPad Pro now makes much more sense to me.
 
 The more I pushed the iPad the more I was impressed. Using OneDrive as my file system I was able to treat this machine as my main device. That is until I got to development. I think that one sign of platform maturity is the ability to develop for that platform, on that platform. Third party developers have been pushing this envelope for quite a while with apps like [Pythonista](http://omz-software.com/pythonista/) and [Continuous .NET](https://itunes.apple.com/us/app/continuous-.net-c-and-f-ide/id1095213378?mt=8). In fact Apple has made great progress here with iOS 10 and Swift playgrounds. But all that being said you still can't create full iOS applications from iOS, at least not yet.
 
@@ -20,7 +20,7 @@ The more I pushed the iPad the more I was impressed. Using OneDrive as my file s
 
 So now that I have settled on needing a full macOS machine, what are the options. A Pro that I am not 100% thrilled with, an Air that hasn't been updated in a very long time and a regular old MacBook that's not made for hardcore work. Or is it.
 
-I started looking at [Geekbench scores](https://browser.primatelabs.com/v4/cpu/1082424) for the Macbook and comparing them to my 2011 MacBook Air. Overall it's a huge increase. Combine that with how nice and small the actual hardware is and now I'm seriously considering a MacBook for doing development work on. How can that be? Simple, in those 5 years hardware has actually come a long way.
+I started looking at Geekbench scores for the Macbook and comparing them to my 2011 MacBook Air. Overall it's a huge increase. Combine that with how nice and small the actual hardware is and now I'm seriously considering a MacBook for doing development work on. How can that be? Simple, in those 5 years hardware has actually come a long way.
 
 **Here We Go**
 
