@@ -23,5 +23,5 @@ As part of the [PR/CI process](https://github.com/tomarra/tomarra.github.io/blob
 
 ### Link Checker
 
-On a daily basis there is a action that runs called [Site Link Check](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml) that checks the links in all `.md` and `.html` files to ensure they are all working.
+On a weekly basis there is a action that runs called [Site Link Check](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml) that checks the links in all `.md` and `.html` files to ensure they are all working. If there are any problems it will also automatically create an issue. Configuration for this is found in the `.lycheeignore` file.
 

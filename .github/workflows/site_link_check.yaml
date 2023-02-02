@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 12 * * *"
+    - cron: "0 0 * * 0"
 
 name: Site Link Check
 
@@ -28,10 +28,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-      #- name: Create Issue From File
-        #if: env.lychee_exit_code != 0
-        #uses: peter-evans/create-issue-from-file@v4
-        #with:
-          #title: Link Checker Report
-          #content-filepath: ./lychee/out.md
-          #labels: report, automated issue
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
