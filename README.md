@@ -1,5 +1,7 @@
 # TomArra.com
 
+[![Check Links](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml/badge.svg)](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml)
+
 ## About
 The repo for my personal website. The site is built on [Jekyll](http://jekyllrb.com) and is running a modified version of the [BlogInn theme](https://justgoodthemes.com/ghost-themes/bloginn/). The actual site is hosted through GitHub Pages and can be accessed by navigating to [http://www.tomarra.com](http://www.tomarra.com).
 
@@ -23,5 +25,5 @@ As part of the [PR/CI process](https://github.com/tomarra/tomarra.github.io/blob
 
 ### Link Checker
 
-On a daily basis there is a action that runs called [Site Link Check](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml) that checks the links in all `.md` and `.html` files to ensure they are all working.
+On a weekly basis there is a action that runs called [Site Link Check](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml) that checks the links in all `.md` and `.html` files to ensure they are all working. If there are any problems it will also automatically create an issue. Configuration for this is found in the `.lycheeignore` file.
 
