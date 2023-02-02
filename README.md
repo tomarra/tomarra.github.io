@@ -1,5 +1,7 @@
 # TomArra.com
 
+[![Check Links](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml/badge.svg)](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml)
+
 ## About
 The repo for my personal website. The site is built on [Jekyll](http://jekyllrb.com) and is running a modified version of the [BlogInn theme](https://justgoodthemes.com/ghost-themes/bloginn/). The actual site is hosted through GitHub Pages and can be accessed by navigating to [http://www.tomarra.com](http://www.tomarra.com).
 
