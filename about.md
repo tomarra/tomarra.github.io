@@ -15,7 +15,7 @@ title: About Tom
 
 *Tablet* – Apple iPad Pro 11-Inch (512GB, Wi-Fi + Cellular, M1)
 
-*Cell Phone* – Apple iPhone 14 Pro
+*Cell Phone* – Apple iPhone 15 Pro
 
 *Watch* - Apple Watch Ultra
 
