@@ -19,18 +19,18 @@ baseurl:
 
 # Site navigation - each item must have a title and a url.
 navigation:
-- text: Home
-  url: /
-- text: About
-  url: /about/
-- text: Archive
-  url: /archive/
-- text: Tags
-  url: /tags/
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: Archive
+    url: /archive/
+  - text: Tags
+    url: /tags/
 
 # Author information - author info at the bottom of the post
 author_name: "Tom Arra"
-author_bio: "Tom has over thirteen years of experience in software and product development. He currently is the Principal Program Manager at Very Good Ventures in Chicago, Illinois."
+author_bio: "Tom has over thirteen years of experience in software and product development. He currently is the Director of Product Development at Very Good Ventures in Chicago, Illinois."
 author_url:
 author_location:
 author_image:
@@ -55,15 +55,15 @@ instagram_username: tom_arra
 permalink: pretty
 markdown: kramdown
 kramdown:
-    auto_ids: false
+  auto_ids: false
 
-# Sass compliation
+# Sass compilation
 sass:
   sass_dir: _sass
 
 # Pagination
 paginate: 5
-paginate_path: '/blog/page:num/'
+paginate_path: "/blog/page:num/"
 
 # Gems for GitHub
 plugins:
