@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "What I Use - Mac Software"
-date:   2014-08-15
+title: "What I Use - Mac Software"
+date: 2014-08-15
 banner_image: Mac_Apps.jpg
 tags: software appstore mac macappstore
 ---
+
 I bounce around from machine to machine and even device to device but I always like to have software on all of them that I am used to and allows me to get my work done. Sometimes these features are built into the core of the OS that I am using at the time but that seems to be the exception, not the rule.
 
 Here is the software I use to make the most of out Mac.
@@ -23,6 +24,7 @@ Lock Me Now – In a work environment you have to have the ability to quickly lo
 
 [OneDrive](https://itunes.apple.com/us/app/onedrive/id823766827?mt=12) – Again being a company man. But with the combination of Office365 and OneDrive I know that I have the full office suite and all of my files anywhere I go. A free OneDrive account gets you 15GB of storage while a Office365 subscription gets you 1TB.
 
-Image Credit: [iMacLand](http://www.imacland.com/)
+Image Credit: iMacLand
 
-*Ninja Edit (Feb 2023) - Removed link to Lock Me Now as it is no longer available.*
+_Ninja Edit (Feb 2023) - Removed link to Lock Me Now as it is no longer available._
+_Ninja Edit (Jan 2025) - Removed link to iMacLand as it no longer is available._

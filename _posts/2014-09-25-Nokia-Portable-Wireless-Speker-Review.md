@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Nokia Portable Wireless Speaker (MD-12) Review"
-date:   2014-09-25
+title: "Nokia Portable Wireless Speaker (MD-12) Review"
+date: 2014-09-25
 banner_image: Nokia_Bluetooth_Speaker.jpg
 tags: hardware music bluetooth bluetoothspeaker nokia speaker
 ---
-*Disclaimer: I did work for Nokia/Microsoft while I was reviewing this unit. That being said this was bought as a personal product that I intend to keep, not through internal employee sources.*
+
+_Disclaimer: I did work for Nokia/Microsoft while I was reviewing this unit. That being said this was bought as a personal product that I intend to keep, not through internal employee sources._
 
 I like to always have background noise. It drives my wife nuts but oh well it’s how I work best. I tend to have either music/podcasts playing or the TV on whenever I am working or just getting stuff done around the house. Naturally the source of a lot of this media is my plethora of devices but most of the time the built in speaker just doesn’t cut it. For the past few months I have been on the search for a good bluetooth speaker and I think I finally have landed on it.
 
@@ -15,7 +16,7 @@ The Nokia MD-12 is their new portable wireless speaker. It’s quite small, come
 
 **Look and Feel**
 
-I wanted something that I could easily take around the house or outside easily. A lot of speakers on the market today are either weird shapes ([Beats Pill](https://www.beatsbydre.com/support/speakers/pill-plus)) or are very heavy ([Bose SoundLink](http://www.bose.com/controller?url=/shop_online/digital_music_systems/bluetooth_speakers/soundlink_wireless_speaker/index.jsp)). The Nokia is a little bit bigger and heavier then a hockey puck. It’s easy to pick up and carry over to the next room without even thinking about it.
+I wanted something that I could easily take around the house or outside easily. A lot of speakers on the market today are either weird shapes ([Beats Pill](https://www.beatsbydre.com/support/speakers/pill-plus)) or are very heavy (Bose SoundLink). The Nokia is a little bit bigger and heavier then a hockey puck. It’s easy to pick up and carry over to the next room without even thinking about it.
 
 The feature set here is minimal but its enough to get the job done. In the front you have a simple power button with LED indicator lights just under the speaker grille. In the back there is a Micro USB port for charging and a 3.5mm headphone jack so any device can use the speaker. This headphone jack is starting to become the standard but for many years bluetooth speakers only had one way to connect to them which was a giant pain in the ass when a friend wanted to use the speaker. Of course if you have NFC then pairing is a breeze as the speaker has it built in.
 
@@ -37,4 +38,5 @@ Overall for my needs the Nokia Portable Wireless Speaker ticks all the marks I h
 
 Image Credit – [Microsoft](http://www.microsoft.com/en/mobile/accessory/md-12/)
 
-*Nina Edit (Feb 2023) - Removed the link to the Microsoft Store as this is no longer available for purchase.*
+_Nina Edit (Feb 2023) - Removed the link to the Microsoft Store as this is no longer available for purchase._
+_Nina Edit (Jan 2025) - Removed the link to the Bose SoundLink as this is no longer available for purchase._
