@@ -15,12 +15,30 @@ author:
   avatar: "/images/headshot.jpg"
 
 social:
-  - { icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com" }
-  - { icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com" }
+  - {
+      icon: "ion-logo-twitter",
+      label: Twitter,
+      link: "https://twitter.com/tom_arra",
+    }
+  - {
+      icon: "ion-logo-mastodon",
+      label: Mastodon,
+      link: "https://mastodon.social/@tom@tomarra.social",
+    }
+  - {
+      icon: "ion-logo-facebook",
+      label: Facebook,
+      link: "https://www.facebook.com/tomarra",
+    }
   - {
       icon: "ion-logo-instagram",
       label: Instagram,
-      link: "https://instagram.com",
+      link: "https://www.instagram.com/tom_arra",
+    }
+  - {
+      icon: "ion-logo-github",
+      label: GitHub,
+      link: "https://github.com/tomarra",
     }
 
 #-------------------------------
@@ -37,7 +55,7 @@ permalink: /:year/:month/:day/:title:output_ext
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/tagging
+  #- jekyll/tagging
 
 paginate: 10
 paginate_path: "/page/:num"
@@ -53,37 +71,10 @@ include:
   - _pages
 
 # Tags
-tag_page_dir: tag
-tag_page_layout: tag_page
-tag_permalink_style: /:title
+#tag_page_dir: tag
+#tag_page_layout: tag_page
+#tag_permalink_style: /:title
 
 sass:
   sass_dir: _sass
   style: compressed
-
-# SITE CONTENT
-
-# Site navigation - each item must have a title and a url.
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: Archive
-    url: /archive/
-  - text: Tags
-    url: /tags/
-
-# Author information - author info at the bottom of the post
-author_name: "Tom Arra"
-author_bio: "Tom has over thirteen years of experience in software and product development. He currently is the Director of Product Development at Very Good Ventures in Chicago, Illinois."
-
-# Social links in the site footer
-twitter_username: "tom_arra"
-facebook_username: "tomarra"
-github_username: "tomarra"
-smugmug_username: "tomarra"
-linkedin_username: "tomarra"
-mastodon_username: "tomarra"
-mastodon_servername: "mastodon.social"
-instagram_username: tom_arra
