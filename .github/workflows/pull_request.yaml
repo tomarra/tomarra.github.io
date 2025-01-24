@@ -1,23 +1,50 @@
-name: Pull Request
+name: Validate Pull Request
 on: pull_request
 
 jobs:
-  ci:
-    name: Continuous Integration
+  valdiate_pr_title:
+    name: Validate PR Title
+    runs-on: ubuntu-latest
+    steps:
+      - uses: amannn/action-semantic-pull-request@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          types: |
+            fix
+            feat
+            docs
+            refactor
+            test
+            ci
+            chore
+            revert
+          requireScope: false
+  validate_build:
+    name: Validate Build
     runs-on: ubuntu-latest
     steps:
       - name: ✅ Checkout Repo
         uses: actions/checkout@v4
+
       - name: 💎 Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1.2'
+          ruby-version: "3.1.2"
           bundler-cache: true
+
+      - name: 🛠️ Jekyll Build
+        run: bundle exec jekyll build
+  validate_spelling:
+    name: Validate Spelling
+    runs-on: ubuntu-latest
+    steps:
+      - name: ✅ Checkout Repo
+        uses: actions/checkout@v4
+
       - name: 🅰️ Check spelling
         uses: streetsidesoftware/cspell-action@v6
         with:
           files: "**/*.{markdown,md,html}"
           config: .vscode/cspell.json
           incremental_files_only: false
-      - name: ▶️ Jekyll Build
-        run: bundle exec jekyll build
