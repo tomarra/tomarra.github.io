@@ -29,5 +29,5 @@ jobs:
       - name: 🔼 Deploy Preview
         uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: ./build/
-          preview-branch: master
+          source-dir: ./_site
+          preview-branch: main
