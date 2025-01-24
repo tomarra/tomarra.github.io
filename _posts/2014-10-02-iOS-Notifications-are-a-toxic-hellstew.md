@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "iOS Notifications are a Toxic Hellstew"
-date:   2014-10-02
-banner_image: iOS_Notifications.png
+title: "iOS Notifications are a Toxic Hellstew"
+date: 2014-10-02
+image: iOS_Notifications.png
 tags: android apple ios notifications windowsphone software
 ---
 

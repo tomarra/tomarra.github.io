@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Photo backup's are no longer just for techies"
-date:   2014-08-11
-banner_image: Cloud_Backup.png
+title: "Photo backup's are no longer just for techies"
+date: 2014-08-11
+image: Cloud_Backup.png
 tags: software cloud dropbox google icloud onedrive photos storage
 ---
+
 It used to be that only the professional’s and hobbyist’s that lugged around big SLR camera’s were the one getting great shots while out and about. Over the past few years though photography has moved out the hands of professionals thanks to many different things, the chief one being smartphones. If you take a look at the Flickr Camera Finder you can see that 4 of the top 5 camera’s are not only smartphones but specifically iPhones.
 
 Having a decent camera at all times in your pocket has changed the photography world but it has also opened up the door to a new market, cloud backups. Over the past couple years a few different companies have been making interesting products but I think one is a clear winner.
@@ -25,7 +26,7 @@ While iCloud has always been a pretty locked down storage system it does a few t
 
 **OneDrive**
 
-*Note: I do work for Microsoft :). That being said OneDrive, formally SkyDrive, has turned into quite the competitor in this space in a very short amount of time. Just this month some staggering changes have come to OneDrive, again along the lines of storage and pricing. The OneDrive team announced that all account’s now get 15GB for free which brings it up to the level of Google Drive.*
+_Note: I do work for Microsoft :). That being said OneDrive, formally SkyDrive, has turned into quite the competitor in this space in a very short amount of time. Just this month some staggering changes have come to OneDrive, again along the lines of storage and pricing. The OneDrive team announced that all account’s now get 15GB for free which brings it up to the level of Google Drive._
 
 The really interesting part is the new pricing structure along with Office 365. If you sign up for an Office 365 plan at either $10 a month or $100 upfront for a year you not only get access to the full Office 365 plan, you also get 1TB of OneDrive storage for 5 users. Obviously this plan is meant for a family situation but there is nothing stopping anyone from signing up with 5 live accounts that they own and having access to 5TB of storage.
 

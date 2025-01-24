@@ -2,7 +2,7 @@
 layout: post
 title: "What I Use - Mac Software"
 date: 2014-08-15
-banner_image: Mac_Apps.jpg
+image: Mac_Apps.jpg
 tags: software appstore mac macappstore
 ---
 

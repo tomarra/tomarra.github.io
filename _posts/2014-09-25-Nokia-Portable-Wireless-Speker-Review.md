@@ -2,7 +2,7 @@
 layout: post
 title: "Nokia Portable Wireless Speaker (MD-12) Review"
 date: 2014-09-25
-banner_image: Nokia_Bluetooth_Speaker.jpg
+image: Nokia_Bluetooth_Speaker.jpg
 tags: hardware music bluetooth bluetoothspeaker nokia speaker
 ---
 
