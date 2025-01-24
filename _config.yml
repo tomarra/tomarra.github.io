@@ -1,19 +1,65 @@
-# BASICS
+---
+#-------------------------------
+# General Site Settings
+title: Tom Arra
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Thoughts, stories and ideas. Mostly.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tomarra.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Site title
-title: "TomArra.com"
+#-------------------------------
+# Author Settings
+author:
+  name: Tom Arra
+  bio: "" #I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  avatar: "/images/headshot.jpg"
 
-# A description of your site for social meta tag, search engines, and feed.xml
-description: "Just another personal website and blog"
+social:
+  - { icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com" }
+  - { icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com" }
+  - {
+      icon: "ion-logo-instagram",
+      label: Instagram,
+      link: "https://instagram.com",
+    }
 
-# Tagline near the site title
-tagline: "Thoughts, stories and ideas. Mostly."
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hey, I’m Tom! Product Leader & Engineer.
+  hero__description: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  hero__image: "/images/headshot.jpg"
 
-# The base hostname & protocol of your site for where absolute urls are needed
-url: "http://www.tomarra.com"
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title:output_ext
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
 
-# The subpath of your site, e.g. /blog, for generating urls
-baseurl:
+paginate: 10
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: /:title
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # SITE CONTENT
 
@@ -31,13 +77,6 @@ navigation:
 # Author information - author info at the bottom of the post
 author_name: "Tom Arra"
 author_bio: "Tom has over thirteen years of experience in software and product development. He currently is the Director of Product Development at Very Good Ventures in Chicago, Illinois."
-author_url:
-author_location:
-author_image:
-
-# Sidebar Ad banner
-banner_url:
-banner_image:
 
 # Social links in the site footer
 twitter_username: "tom_arra"
@@ -48,24 +87,3 @@ linkedin_username: "tomarra"
 mastodon_username: "tomarra"
 mastodon_servername: "mastodon.social"
 instagram_username: tom_arra
-
-# PAGE GENERATION
-
-# Formatters
-permalink: pretty
-markdown: kramdown
-kramdown:
-  auto_ids: false
-
-# Sass compilation
-sass:
-  sass_dir: _sass
-
-# Pagination
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# Gems for GitHub
-plugins:
-  - jekyll-paginate
-  - jekyll-coffeescript

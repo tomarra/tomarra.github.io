@@ -1,6 +1,6 @@
 
 source "https://rubygems.org"
-ruby RUBY_VERSION
+#ruby 3.3.4
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -9,7 +9,7 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-paginate"
    gem "jekyll-sitemap"
-   gem "jekyll-coffeescript"
+   gem "jekyll-tagging"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
