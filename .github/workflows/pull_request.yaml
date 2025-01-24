@@ -8,16 +8,19 @@ jobs:
     steps:
       - name: ✅ Checkout Repo
         uses: actions/checkout@v4
+
       - name: 💎 Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1.2'
+          ruby-version: "3.3.4"
           bundler-cache: true
+
       - name: 🅰️ Check spelling
         uses: streetsidesoftware/cspell-action@v6
         with:
           files: "**/*.{markdown,md,html}"
           config: .vscode/cspell.json
           incremental_files_only: false
-      - name: ▶️ Jekyll Build
+
+      - name: 🛠️ Jekyll Build
         run: bundle exec jekyll build
