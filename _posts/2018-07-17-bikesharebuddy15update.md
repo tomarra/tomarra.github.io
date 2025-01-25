@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bike Share Buddy 1.5 Update Released!"
+description: While as usual there are some minor fixes and changes there is actually one new feature supported, Siri Search Suggestions.
 date: 2018-07-17
 tags: bikesharebuddy
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Enforcing SSL with GitHub Pages"
+description: A quick and easy way to get GitHub Pages to serve over SSL. It's the way of the world now.
 date: 2018-05-03
 tags: website
 ---

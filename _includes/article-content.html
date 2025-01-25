@@ -4,11 +4,11 @@
       <h2 class="article__title">
         {% if post.layout == "post" %}
         <a href="{{ post.url | prepend: site.baseurl }}"
-          >{{ post.title }} <i class="ion ion-md-arrow-round-forward"></i
+          >{{ post.title }} <i class="fa-solid fa-arrow-right"></i
         ></a>
         {% elsif post.layout == "link_post" %}
         <a href="{{ post.link_url}}"
-          >🔗 {{ post.title }} <i class="ion ion-md-arrow-round-forward"></i
+          >🔗 {{ post.title }} <i class="fa-solid fa-arrow-right"></i
         ></a>
         {% endif %}
       </h2>

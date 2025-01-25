@@ -11,7 +11,6 @@ url: "https://tomarra.com" # the base hostname & protocol for your site, e.g. ht
 # Author Settings
 author:
   name: Tom Arra
-  bio: "" #I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
   avatar: "/images/headshot.jpg"
 
 social:
@@ -53,7 +52,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Tom! Product Leader & Engineer.
-  hero__description: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  hero__description: I'm a product leader & engineer who loves to work with global teams and products. I help organize the corporate chaos to make the best solutions for customers. Here I post about not just tech but a few hobbies as well.
   hero__image: "/images/headshot.jpg"
 
 #-------------------------------

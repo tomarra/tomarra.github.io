@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bike Share Buddy 1.6 Update"
+description: I was able to sneak in a update for Bike Share Buddy mostly for iOS 12 fixes. First time I was able to pull off a release on the same day as iOS as well :)
 date: 2018-09-17
 tags: bikesharebuddy
 ---

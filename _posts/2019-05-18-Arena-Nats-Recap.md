@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2019 USCA Arena Nationals Recap"
+description: For the week of May 5th 2019 I got to be a full time professional athlete.
 date: 2019-05-18
 image: 2019ArenaNatsRecap.jpeg
 tags: curling
