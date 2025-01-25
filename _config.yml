@@ -15,32 +15,39 @@ author:
   avatar: "/images/headshot.jpg"
 
 social:
+  - { icon: "fa-twitter", label: Twitter, link: "https://twitter.com/tom_arra" }
   - {
-      icon: "logo-twitter",
-      label: Twitter,
-      link: "https://twitter.com/tom_arra",
+      icon: "fa-bluesky",
+      label: Bluesky,
+      link: "https://bsky.app/profile/tomarra.com",
     }
   - {
-      icon: "logo-mastodon",
+      icon: "fa-mastodon",
       label: Mastodon,
       link: "https://mastodon.social/@tom@tomarra.social",
     }
   - {
-      icon: "logo-facebook",
+      icon: "fa-facebook",
       label: Facebook,
       link: "https://www.facebook.com/tomarra",
     }
   - {
-      icon: "logo-instagram",
+      icon: "fa-instagram",
       label: Instagram,
       link: "https://www.instagram.com/tom_arra",
     }
-  - { icon: "logo-github", label: GitHub, link: "https://github.com/tomarra" }
+  - { icon: "fa-github", label: GitHub, link: "https://github.com/tomarra" }
   - {
-      icon: "logo-youtube",
-      label: GitHub,
-      link: "https://youtube.com/@tomarra",
+      icon: "fa-linkedin",
+      label: LinkedIn,
+      link: "https://www.linkedin.com/in/tomarra/",
     }
+  - {
+      icon: "fa-flickr",
+      label: Flickr,
+      link: "https://www.flickr.com/people/tomarra/",
+    }
+  - { icon: "fa-youtube", label: GitHub, link: "https://youtube.com/@tomarra" }
 
 #-------------------------------
 # Hero Settings
