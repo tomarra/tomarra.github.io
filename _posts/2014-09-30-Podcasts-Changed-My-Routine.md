@@ -3,14 +3,12 @@ layout: post
 title: "Podcasts Changed My Routine"
 date: 2014-09-30
 image: Podcasts.png
-tags: music software 5by5 audio overcast podcasts relayfm twit
+tags: podcasts
 ---
 
 I started listening to Podcasts back in 2003. At that time it was cutting edge to have Podcasts on iTunes and Apple was smart enough to ride that wave for quite a while. While Podcasts have now moved beyond the Apple ecosystem they are a part of every mobile platform and have become and industry in its own right. Podcasts were a hobby when they started. Not many people thought it could be turned into a business. But now 10+ years down the line networks such as TWiT, Relay FM, and 5by5 have proven the viability of “internet radio shows”.
 
 In September of 2013 my routine changed quite a bit as I began to commute to downtown Chicago. Sitting on the train for an hour each day, plus a 10 minute walk each direction, was new to me and while music was great to listen to I felt like I could use the time in a more meaningful way. I tried reading and playing video games but the motion on the train was just too much. Then I remembered a few of the Podcasts that I listened to many years ago and though it was time to start listening again.
-
-<!--more-->
 
 When I started listening to Podcasts TWiT was a single show, now its an entire network which pushes out multiple shows a day. They are a big name in the podcasting space but are by no means a bully in the space. Combine TWiT with a couple other networks and you have most of the Podcasts I listen to. That’s mostly just because I am a geek and enjoy listening to technology/engineering based shows. But luckily for everyone else there are shows for just about any interest out there. If anyone out there thinks that Podcasts are not for them then just direct them to Podcast Dictionary. By no means is it an exhaustive listing but it has quite a database behind it with many different genre’s in many different languages. If you can’t find a Podcast you think you would be interested in, then you need some new hobbies.
 

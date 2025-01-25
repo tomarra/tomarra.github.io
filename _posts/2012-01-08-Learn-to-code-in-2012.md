@@ -3,7 +3,7 @@ layout: post
 title: "Learn to Code in 2012"
 date: 2012-01-09
 image: Learn_To_Code.jpg
-tags: software codeacademy codeyear programming
+tags: software
 ---
 
 In this past year there have been a few great websites created to learn to write code. None have been as good as [Codeacademy](http://www.codeacademy.com/). While it only get’s you started in programming logic it does it in a simple way that just about anybody can understand. And in order to get even more people excited about and learning about writing code they have started [Code Year](http://www.codeyear.com/).

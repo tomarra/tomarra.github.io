@@ -16,29 +16,30 @@ author:
 
 social:
   - {
-      icon: "ion-logo-twitter",
+      icon: "logo-twitter",
       label: Twitter,
       link: "https://twitter.com/tom_arra",
     }
   - {
-      icon: "ion-logo-mastodon",
+      icon: "logo-mastodon",
       label: Mastodon,
       link: "https://mastodon.social/@tom@tomarra.social",
     }
   - {
-      icon: "ion-logo-facebook",
+      icon: "logo-facebook",
       label: Facebook,
       link: "https://www.facebook.com/tomarra",
     }
   - {
-      icon: "ion-logo-instagram",
+      icon: "logo-instagram",
       label: Instagram,
       link: "https://www.instagram.com/tom_arra",
     }
+  - { icon: "logo-github", label: GitHub, link: "https://github.com/tomarra" }
   - {
-      icon: "ion-logo-github",
+      icon: "logo-youtube",
       label: GitHub,
-      link: "https://github.com/tomarra",
+      link: "https://youtube.com/@tomarra",
     }
 
 #-------------------------------
@@ -55,7 +56,6 @@ permalink: /:year/:month/:day/:title:output_ext
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  #- jekyll/tagging
 
 paginate: 10
 paginate_path: "/page/:num"
@@ -69,11 +69,6 @@ defaults:
 
 include:
   - _pages
-
-# Tags
-#tag_page_dir: tag
-#tag_page_layout: tag_page
-#tag_permalink_style: /:title
 
 sass:
   sass_dir: _sass

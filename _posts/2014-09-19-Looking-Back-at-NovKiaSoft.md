@@ -3,7 +3,7 @@ layout: post
 title: "Looking Back at NovKiaSoft"
 date: 2014-09-19
 image: NovKiaSoft.png
-tags: other layoff microsoft nokia novarra novkiasoft
+tags: work
 ---
 
 Today I woke up with a quite a weird feeling. For the first time in over 9 years (2005) I don’t have a job. While being laid-off wasn’t a surprise, read the news about Microsoft, it’s still a shock to the system when you take a step back and think about it.

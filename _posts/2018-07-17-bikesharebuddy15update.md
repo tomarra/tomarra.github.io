@@ -2,7 +2,7 @@
 layout: post
 title: "Bike Share Buddy 1.5 Update Released!"
 date: 2018-07-17
-tags: bikesharebuddy ios iosdev
+tags: bikesharebuddy
 ---
 
 A quick update to Bike Share Buddy has now been published to the iOS App Store.

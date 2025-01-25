@@ -3,14 +3,12 @@ layout: post
 title: "My iPhone 6 Buying Experience"
 date: 2014-09-24
 image: iPhone6_Buying.png
-tags: hardware products bestbuy ios8 iphone iphone6
+tags: hardware apple
 ---
 
 Usually I don’t write about things like this but after seeing some horror stories on other sites I figured I would chime in.
 
 Along with most of the Internet I watched the Apple keynote address announcing the new iPhone 6 and 6 Plus. Not a lot in surprises being that most of it was leaked but it was presented in a nice, neat little demo package. Right away I said to myself, not going to pre-order either of these. I needed to get them both in my hands in order to make an informed decision.
-
-<!--more-->
 
 Pre-order day comes and of course everything comes [crashing down](http://www.theverge.com/2014/9/12/6139369/apple-iphone-6-pre-order-fail) while most people were fast asleep. Reports start coming out that supply is going to be limited so lines start at Apple stores up to [1 week before](http://www.techtimes.com/articles/14964/20140905/photographic-evidence-iphone-lines-already-formed-apple-stores.htm) launch day. At this point I say screw it, Il just wait for the second batch of shipments after I play with it.
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Moving Down to Macbook (Adorable)"
-date:   2016-11-19
-tags: mac macbook hardware laptop macbookadorable ipad
+title: "Moving Down to Macbook (Adorable)"
+date: 2016-11-19
+tags: mac hardware
 ---
+
 While most of my tech and gadgets I update at a predictable rate (which is always a little bit too fast from my wife's point of view) one item that has been lagging behind has been my laptop. I switched to a MacBook Air back in 2011 and for usage it has been just fine over the last five plus years. Even when I started pushing into iOS development I was surprised how well the MacBook Air faired. In the last few months though things seemed to take a turn. I am sure part of the change was me pushing the system a bit more but some of the blame is probably on the macOS Sierra update as well.
 
 I have been on the outlook for that mysterious MacBook Pro update that the entire Mac community has been waiting for but just kept slipping and slipping down the calendar. Finally, last month we got the MacBook Pro refresh we were waiting for and to be honest, I was a bit underwhelmed. I think the TouchBar is good step forward and I am all for the new USB-C based world but nothing on the machine jumped out at me to say "I need that". So that caused me to look around a bit and really evaluate what I needed in a new machine.
-
-<!--more-->
 
 **The iPad is actually really capable**
 

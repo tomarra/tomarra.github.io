@@ -3,14 +3,12 @@ layout: post
 title: "Unspoken Understanding - Tacit App Review"
 date: 2014-09-29
 image: Tacit.png
-tags: software android app appreview ios tacit windowsphone wp
+tags: software review
 ---
 
 Over the last month I have been part of a beta testing session for a new mobile application that just hit the market a little over a week ago. Tacit is billed as an online to real world presence application to let your contacts know the best way to get in contact with you.
 
 There have been many times that I get a phone call just at the wrong time. Mostly when I am in a work meeting or at personal outing that I just don’t want to be disturbed. Tacit is aimed to fix that solution by letting your contacts know what’s the best possible way to get a hold of you at that moment in time.
-
-<!--more-->
 
 **First Time Use**
 

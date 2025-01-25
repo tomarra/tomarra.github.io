@@ -3,7 +3,7 @@ layout: post
 title: "Masters of Doom - Book Review"
 date: 2014-05-19
 image: Doom_Book_Review.jpg
-tags: books carmack doom quake romero
+tags: books review
 ---
 
 While I am not an avid reader by any stretch of the word I have been reading more and more thanks to my Kindle Paperwhite. The experience is great and is a lot easier to carry then actual paperback or hardcover books.

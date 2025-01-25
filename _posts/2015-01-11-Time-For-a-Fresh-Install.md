@@ -3,14 +3,12 @@ layout: post
 title: "Time for a Fresh Install"
 date: 2015-01-11
 image: Mac_Apps_Part2.png
-tags: software mac macosx osx
+tags: software mac
 ---
 
 _Side Note: I had this written up back in October and for some reason I didn’t hit the post button :/_
 
 With the launch of OS X 10.10 Yosemite (man that’s a mouth full) I took it as a good time to do a fresh install on my MacBook Air. I have been running the Dev Preview builds since they were released and while everything has been running just fine I have noticed a few hiccups in the last couple weeks. With a fresh install I am able to only really put the bare essentials on and that’s what I have documented here.
-
-<!--more-->
 
 - Skype – Over the last couple years my work buddies and I have amassed quite a number of chat logs and now that we are all split up across other companies this is our main way of communication. How else are we supposed to send goofy links to everyone throughout the day?
 - SourceTree – Yes I know “real” programmers use the command line but SourceTree just makes everything about Git easier. Plus with the integration it has with BitBucket my workflow is much easier.

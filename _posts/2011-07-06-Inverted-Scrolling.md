@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Inverted Scrolling?!? My laptop is not an iPad!"
-date:   2011-07-06
-tags: software lion macosx rage scrolling
+title: "Inverted Scrolling?!? My laptop is not an iPad!"
+date: 2011-07-06
+tags: software mac
 ---
+
 I upgraded my MacBook Pro to the Golden Master release of Lion this morning and was treated to the delight of inverted scrolling. At first it was kind of cool but very quickly it got annoying. Good thing I had an external mouse lying around to fix the issue.
 
 To get scrolling back to the trusty way it has been since…forever just plug in a USB mouse or connect a Bluetooth mouse. Then in System Preferences go to Mouse and uncheck the checkbox at the top.

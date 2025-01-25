@@ -3,7 +3,7 @@ layout: post
 title: "Learning How Social Media Is Used In The Daily News"
 date: 2015-01-11
 image: Social_Media_In_The_News.png
-tags: [other, tweets, chicago, news, twitter, unionstation]
+tags: chicago news
 ---
 
 Most people watch the news (in some way shape or form) everyday. More and more we see contributions coming from online sources and social media and think nothing of it. I know I do, it’s just a way of life now. But late last week I had quite an experience with a picture and a “Breaking News” story.
@@ -11,8 +11,6 @@ Most people watch the news (in some way shape or form) everyday. More and more w
 While walking through Chicago Union Station to catch my train home I came around the corner to find that a pipe had burst right near the entrance to my track and there was standing water in a heavy use area of the southbound tracks. Not wanting to miss my train I got in line to make my way through the water and while doing so decided to pull out my phone and snap a picture of the waterfall I was currently witnessing. After making onto the train I posted this tweet.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Another burst pipe at Union Station. <a href="http://t.co/qSMq7qi9gz">pic.twitter.com/qSMq7qi9gz</a></p>&mdash; Tom Arra (@tom_arra) <a href="https://twitter.com/tom_arra/status/553673181035499520">January 9, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!--more-->
 
 I thought it was a cool picture (especially since I shot it while walking) and a few people would get a kick seeing it. I put my headphones on and settled in for my 30 minute commute thinking not much more about the picture, post, or story.
 

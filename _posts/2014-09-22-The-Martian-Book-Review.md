@@ -3,7 +3,7 @@ layout: post
 title: "The Martian - Book Review"
 date: 2014-09-22
 image: The_Martian.png
-tags: books kindle martian themartian
+tags: books
 ---
 
 While I have been getting more and more into reading on my Kindle I never read fiction. Really, never. Most people think I’m crazy but oh well.

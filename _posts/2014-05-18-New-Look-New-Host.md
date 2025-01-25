@@ -3,7 +3,7 @@ layout: post
 title: "New Look, New Host, New Content (hopefully)"
 date: 2014-05-18
 image: Wordpress_Azure.png
-tags: software web azure website
+tags: website
 ---
 
 I decided to jump in with both feet on this one so let’s see how it goes.

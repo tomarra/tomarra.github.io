@@ -2,12 +2,12 @@
 layout: post
 title: "A Fresh iPhone with your Health/Activity Data"
 date: 2017-12-2
-tags: ios iphone healthkit activity workouts
+tags: ios healthkit
 ---
 
-Don't be surprised, I got an iPhone X. 
+Don't be surprised, I got an iPhone X.
 
-It was always my policy when I got a new phone to start it fresh. No backups, no restores, just login and start downloading the apps and set the settings that I need. This allowed me to essentially clean up the junk that we all get on our devices after using them for a year or two. 
+It was always my policy when I got a new phone to start it fresh. No backups, no restores, just login and start downloading the apps and set the settings that I need. This allowed me to essentially clean up the junk that we all get on our devices after using them for a year or two.
 
 The last few iPhone's that I upgraded to I was forced to do a local iTunes backup and restore for one main item, keeping my Health and Activity data. With the release of the Apple Watch, and a plethora of 3rd party apps, which sends all of it's data to Health app I have built up an immense amount of data that I don't want to lose. The problem is that with this comes all the old apps and settings from my previous device. A couple days before my iPhone X got delivered I decided to do some homework and see if there was a way around this. Keep my data and send it over to my new device but without the cruft of the old device.
 

@@ -1,13 +1,8 @@
 <!-- begin footer -->
 <footer class="footer">
-
   <div class="footer__inner">
     <div class="container">
-      <div class="row">
-        {% include footer-widgets/widget-info.html %}
-        {% include footer-widgets/widget-subscribe.html %}
-        {% include footer-widgets/widget-tags.html %}
-      </div>
+      <div class="row">{% include footer-widgets/widget-info.html %}</div>
     </div>
   </div>
 
@@ -15,7 +10,13 @@
     <div class="row">
       <div class="col col-12">
         <div class="footer__info">
-          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+          <div class="copyright">
+            {{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>.
+            Crafted & Designed by
+            <a href="https://jekyllthemes.io/developers/artem-sheludko"
+              >Artem Sheludko</a
+            >.
+          </div>
           <div class="toggle-theme">
             <div class="toggle-moon"><i class="ion ion-ios-moon"></i></div>
             <div class="toggle-sun"><i class="ion ion-ios-sunny"></i></div>
@@ -25,6 +26,5 @@
       </div>
     </div>
   </div>
-
 </footer>
 <!-- end footer -->

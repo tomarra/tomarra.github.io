@@ -2,7 +2,7 @@
 layout: post
 title: "Bike Share Buddy 1.0"
 date: 2016-06-20
-tags: bikesharebuddy bikebuddy ios development
+tags: bikesharebuddy
 ---
 
 I always have a couple little side projects that occupy the little spare time I have. There is one that I have been working on and off for a year now but it's now finally time to pull the trigger. Today I published my first app to the App Store.

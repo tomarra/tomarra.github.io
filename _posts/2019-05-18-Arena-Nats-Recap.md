@@ -3,7 +3,7 @@ layout: post
 title: "2019 USCA Arena Nationals Recap"
 date: 2019-05-18
 image: 2019ArenaNatsRecap.jpeg
-tags: curling wcc windycitycurling arenanats
+tags: curling
 ---
 
 For the week of May 5th 2019 I got to be a full time professional athlete. Just let that sink in for a second. It's definitely as cool as it's sounds but it was also a crazy, tiring, whirlwind of a week. The other word to describe it, privilege.
@@ -13,8 +13,6 @@ For the week of May 5th 2019 I got to be a full time professional athlete. Just 
 - I had the privilege of meeting and competing with some of the best arena level clubs/players in the country.
 
 While you typically take a look at things one game at a time, this bigger picture wasn't lost on me during the week. Here is what the week entailed.
-
-<!--more-->
 
 **Pre Tournament Practice** - This is something I have never had prior experience with. We had 6 minutes to practice on each of the sheets, 5 in total. During this 30 minute session we got a chance to feel what the ice was like and see how well it curled (spoiler it was awesome). We have never had to work under a clock before so it was quite chaotic but we got our job done.
 

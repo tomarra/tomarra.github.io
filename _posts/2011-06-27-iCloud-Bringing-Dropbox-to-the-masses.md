@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "iCloud, Bringing Dropbox to the Masses"
-date:   2011-06-27
-tags: mobile software apple icloud ios ipad iphone ipod
+title: "iCloud, Bringing Dropbox to the Masses"
+date: 2011-06-27
+tags: software apple
 ---
-I hear a lot of talk focusing around iCloud these days and rightfully so. It’s a huge undertaking that Apple is betting the farm on and even with just seeing the previews of it I can say that Apple might as well double down on it’s bet. When Apple came out with the iPhone everyone wanted one but they saw it as just another device. Fast forward 3 years later and now the iPad is the new big thing but this time it’s seen as not just a new device but a possible laptop replacement.When I first got my iPad I thought it was a great device but replace my laptop? No way. Now that the ecosystem has grown for iPad specific apps the use case makes much more sense to me now.
 
-<!--more-->
+I hear a lot of talk focusing around iCloud these days and rightfully so. It’s a huge undertaking that Apple is betting the farm on and even with just seeing the previews of it I can say that Apple might as well double down on it’s bet. When Apple came out with the iPhone everyone wanted one but they saw it as just another device. Fast forward 3 years later and now the iPad is the new big thing but this time it’s seen as not just a new device but a possible laptop replacement.When I first got my iPad I thought it was a great device but replace my laptop? No way. Now that the ecosystem has grown for iPad specific apps the use case makes much more sense to me now.
 
 I work on a Windows 7 machine all day, as most people do, and when I come home I want to check my Facebook and Twitter feeds, catch up on news, and waste some time on Reddit. But using a laptop for just browsing seems like overkill now in today’s ever expanding market of tablets. It’s much easier for me to sit down on the couch, or even start cooking dinner, pull out my iPad and swipe though my apps. With a few swipes and taps on the screen I get the information I am looking for and it’s, usually, displayed in a great UI/UX compared to desktop websites.
 
