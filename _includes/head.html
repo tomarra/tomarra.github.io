@@ -11,8 +11,6 @@
     content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
   />
 
-  <meta name="color-scheme" content="light dark" />
-
   <link
     rel="canonical"
     href="{{ page.url | replace:'index.html','' | absolute_url }}"
