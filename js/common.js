@@ -1,7 +1,7 @@
-$(document).ready(function() {
-  'use strict';
+$(document).ready(function () {
+  "use strict";
 
-  var html = $('html'),
+  var html = $("html"),
     menuOpenIcon = $(".nav__icon-menu"),
     menuCloseIcon = $(".nav__icon-close"),
     menuList = $(".main-nav"),
@@ -11,17 +11,29 @@ $(document).ready(function() {
     toggleTheme = $(".toggle-theme"),
     searchInput = $(".search__text");
 
+  if (window.matchMedia) {
+    // Check to see if system dark mode is enabled
+    var match = window.matchMedia("(prefers-color-scheme: dark)");
+    if (match.matches) {
+      darkMode();
+    }
+
+    // Add listener for changes in display mode and react
+    match.addEventListener("change", (e) => {
+      darkMode();
+    });
+  }
 
   /* ==================================
   // Menu + Search + Theme Switcher
   ================================== */
-  menuOpenIcon.click(function() {
+  menuOpenIcon.click(function () {
     menuOpen();
-  })
+  });
 
   menuCloseIcon.click(function () {
     menuClose();
-  })
+  });
 
   searchOpenIcon.click(function () {
     searchOpen();
@@ -32,7 +44,7 @@ $(document).ready(function() {
   });
 
   toggleTheme.click(function () {
-    darkMode()
+    darkMode();
   });
 
   function menuOpen() {
@@ -54,24 +66,23 @@ $(document).ready(function() {
     searchBox.removeClass("is-visible");
   }
 
-  $('.search, .search__box').on('click keyup', function(event) {
+  $(".search, .search__box").on("click keyup", function (event) {
     if (event.target == this || event.keyCode == 27) {
-      $('.search').removeClass('is-visible');
+      $(".search").removeClass("is-visible");
     }
   });
 
   function darkMode() {
-    if (html.hasClass('dark-mode')) {
-      html.removeClass('dark-mode');
-      localStorage.removeItem("theme")
+    if (html.hasClass("dark-mode")) {
+      html.removeClass("dark-mode");
+      localStorage.removeItem("theme");
       document.documentElement.removeAttribute("dark");
     } else {
-      html.addClass('dark-mode');
+      html.addClass("dark-mode");
       localStorage.setItem("theme", "dark");
       document.documentElement.setAttribute("dark", "");
     }
   }
-
 
   /* ========================
   // Simple Jekyll Search
@@ -80,18 +91,16 @@ $(document).ready(function() {
     searchInput: document.getElementById("js-search-input"),
     resultsContainer: document.getElementById("js-results-container"),
     json: "/search.json",
-    searchResultTemplate: '{article}',
-    noResultsText: '<h3 class="no-results">No results found</h3>'
+    searchResultTemplate: "{article}",
+    noResultsText: '<h3 class="no-results">No results found</h3>',
   });
-
 
   /* =======================
   // Responsive Videos
   ======================= */
   $(".post__content, .page__content").fitVids({
-    customSelector: ['iframe[src*="ted.com"]', 'iframe[src*="facebook.com"]']
+    customSelector: ['iframe[src*="ted.com"]', 'iframe[src*="facebook.com"]'],
   });
-
 
   /* =======================
   // Zoom Image
@@ -99,19 +108,17 @@ $(document).ready(function() {
   $(".page img, .post img").attr("data-action", "zoom");
   $(".page a img, .post a img").removeAttr("data-action", "zoom");
 
-
   /* =======================
   // Scroll Top Button
   ======================= */
-  $(".top").click(function() {
+  $(".top").click(function () {
     $("html, body").stop().animate({ scrollTop: 0 }, "slow", "swing");
   });
-  $(window).scroll(function() {
+  $(window).scroll(function () {
     if ($(this).scrollTop() > $(window).height()) {
       $(".top").addClass("is-active");
     } else {
       $(".top").removeClass("is-active");
     }
   });
-
 });
