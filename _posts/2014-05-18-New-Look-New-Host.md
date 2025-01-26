@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "New Look, New Host, New Content (hopefully)"
-date:   2014-05-18
-banner_image: Wordpress_Azure.png
-tags: software web azure website
+title: "New Look, New Host, New Content (hopefully)"
+date: 2014-05-18
+image: Wordpress_Azure.png
+tags: website
 ---
+
 I decided to jump in with both feet on this one so let’s see how it goes.
 
 **New Look** – The whole site is now run in WordPress. I know this seems like a cop-out being that I am an engineer but I figure this time around I would rather focus on the content of the site instead of trying to maintain something so let’s give this a shot.

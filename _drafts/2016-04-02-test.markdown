@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Test Post"
-date:   2016-04-02
+title: "Test Post"
+date: 2016-04-02
 tags: test
 ---
+
 This is a test post
 
->This is a blockquote
-
-<!--more-->
+> This is a blockquote
 
 This is not
 

@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "Remote Workers Just Don't Work"
-date:   2014-10-03
-banner_image: Remote_Workers.png
-tags: other remote remoteoffice remoteworkers work workfromhome
+title: "Remote Workers Just Don't Work"
+date: 2014-10-03
+image: Remote_Workers.png
+tags: remote work
 ---
+
 Or at least that’s what all the big companies are thinking. Every direction I turn I end up hearing about another company closing down a remote office or getting rid of remote workers and it always end’s up getting blown out of proportion.
 
 First let’s level set on a few terms here.
 
-<!--more-->
-
-* Work from Home – To me this means you have an employee that normally works at a physical office that the company owns. That employee has the perk of being able to work from home either on a full time, part time, or day-by-day basis.
-* Remote Worker – This is an employee who does not have a physical office to go to. Their home is their office. One perfect example of this is Scott Hanselman. He works for Microsoft but out of his house in Portland, Oregon.
-* Remote Office – When a big corporation, which has a big headquarters, has a smaller office in another location. For the last 4+ years while working for Nokia/Microsoft I would consider my work to be done in a remote office. I was not working in the headquarters where most things were being done.
+- Work from Home – To me this means you have an employee that normally works at a physical office that the company owns. That employee has the perk of being able to work from home either on a full time, part time, or day-by-day basis.
+- Remote Worker – This is an employee who does not have a physical office to go to. Their home is their office. One perfect example of this is Scott Hanselman. He works for Microsoft but out of his house in Portland, Oregon.
+- Remote Office – When a big corporation, which has a big headquarters, has a smaller office in another location. For the last 4+ years while working for Nokia/Microsoft I would consider my work to be done in a remote office. I was not working in the headquarters where most things were being done.
 
 Now that we are level set on definitions let’s dig in a bit. Over the last year it seems like there has been a theory that if you are not “on-site” you are not as valuable or work as hard. The big news story that started all of this was back in the [beginning of 2013 when Yahoo](http://money.cnn.com/2013/02/25/technology/yahoo-work-from-home/) said they were looking for employee’s to be in the office in order to foster better communication and collaboration. They did go on to say if you have to be at home one afternoon to wait for the cable guy just use your best judgement, so they didn’t completely get rid of work from home privileges.
 

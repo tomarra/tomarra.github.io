@@ -2,15 +2,13 @@
 layout: post
 title: "What I Use - Mac Software"
 date: 2014-08-15
-banner_image: Mac_Apps.jpg
-tags: software appstore mac macappstore
+image: Mac_Apps.jpg
+tags: software mac
 ---
 
 I bounce around from machine to machine and even device to device but I always like to have software on all of them that I am used to and allows me to get my work done. Sometimes these features are built into the core of the OS that I am using at the time but that seems to be the exception, not the rule.
 
 Here is the software I use to make the most of out Mac.
-
-<!--more-->
 
 Lock Me Now – In a work environment you have to have the ability to quickly lock your device so you can run to a meeting. This has been built into Windows for years but it’s still a giant pain on a Mac. With Lock Me Now you can set a universal keyboard shortcut that does a quick and painless lock. To match what I have on Windows (Windows Key + L) I have mine setup to ⌘ + L.
 

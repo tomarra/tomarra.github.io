@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "The Martian - Book Review"
-date:   2014-09-22
-banner_image: The_Martian.png
-tags: books kindle martian themartian
+title: "The Martian - Book Review"
+date: 2014-09-22
+image: The_Martian.png
+tags: books
 ---
+
 While I have been getting more and more into reading on my Kindle I never read fiction. Really, never. Most people think I’m crazy but oh well.
 
 So that being said, how did I end up reading The Martian? I listen to a lot of podcasts and Audible.com seems to advertise on just about every one. About a month ago all I heard all the hosts talking about was how good The Martian was. I was looking for the next book to read so I figured I would give it a shot.

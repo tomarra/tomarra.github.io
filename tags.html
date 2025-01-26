@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Tags
 permalink: /tags/
 ---
@@ -13,11 +13,11 @@ permalink: /tags/
                     </div>
                 </header><!-- .entry-header -->
                 <div class="entry-content">
-                    <div class="archive-tags-list">
+                    <div class="archive-tags-list" style="padding-bottom: 10px;">
                         {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
                         {% assign sortedTags = site_tags | split:',' | sort %}
                         {% for tag in sortedTags %}
-                        <a href="#{{ tag | cgi_escape }}">{{ tag }} </a>
+                        <a href="#{{ tag | cgi_escape }}" class="article__tag">{{ tag }}</a>
                         {% endfor %}
                     </div>
                     {% for tag in sortedTags %}
@@ -32,6 +32,5 @@ permalink: /tags/
                 </div><!-- .entry-content -->
             </article><!-- .post -->
         </main><!-- .site-main -->
-        {% include sidebar.html %}
     </div><!-- .inner -->
 </div><!-- .site-content -->

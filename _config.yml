@@ -1,71 +1,81 @@
-# BASICS
+---
+#-------------------------------
+# General Site Settings
+title: Tom Arra
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Thoughts, stories and ideas. Mostly.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tomarra.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Site title
-title: "TomArra.com"
+#-------------------------------
+# Author Settings
+author:
+  name: Tom Arra
+  avatar: "/images/headshot.jpg"
 
-# A description of your site for social meta tag, search engines, and feed.xml
-description: "Just another personal website and blog"
+social:
+  - { icon: "fa-twitter", label: Twitter, link: "https://twitter.com/tom_arra" }
+  - {
+      icon: "fa-bluesky",
+      label: Bluesky,
+      link: "https://bsky.app/profile/tomarra.com",
+    }
+  - {
+      icon: "fa-mastodon",
+      label: Mastodon,
+      link: "https://mastodon.social/@tom@tomarra.social",
+    }
+  - {
+      icon: "fa-facebook",
+      label: Facebook,
+      link: "https://www.facebook.com/tomarra",
+    }
+  - {
+      icon: "fa-instagram",
+      label: Instagram,
+      link: "https://www.instagram.com/tom_arra",
+    }
+  - { icon: "fa-github", label: GitHub, link: "https://github.com/tomarra" }
+  - {
+      icon: "fa-linkedin",
+      label: LinkedIn,
+      link: "https://www.linkedin.com/in/tomarra/",
+    }
+  - {
+      icon: "fa-flickr",
+      label: Flickr,
+      link: "https://www.flickr.com/people/tomarra/",
+    }
+  - { icon: "fa-youtube", label: GitHub, link: "https://youtube.com/@tomarra" }
 
-# Tagline near the site title
-tagline: "Thoughts, stories and ideas. Mostly."
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hey, I’m Tom! Product Leader & Engineer.
+  hero__description: I'm a product leader & engineer who loves to work with global teams and products. I help organize the corporate chaos to make the best solutions for customers. Here I post about not just tech but a few hobbies as well.
+  hero__image: "/images/headshot.jpg"
 
-# The base hostname & protocol of your site for where absolute urls are needed
-url: "http://www.tomarra.com"
-
-# The subpath of your site, e.g. /blog, for generating urls
-baseurl:
-
-# SITE CONTENT
-
-# Site navigation - each item must have a title and a url.
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: Archive
-    url: /archive/
-  - text: Tags
-    url: /tags/
-
-# Author information - author info at the bottom of the post
-author_name: "Tom Arra"
-author_bio: "Tom has over thirteen years of experience in software and product development. He currently is the Director of Product Development at Very Good Ventures in Chicago, Illinois."
-author_url:
-author_location:
-author_image:
-
-# Sidebar Ad banner
-banner_url:
-banner_image:
-
-# Social links in the site footer
-twitter_username: "tom_arra"
-facebook_username: "tomarra"
-github_username: "tomarra"
-smugmug_username: "tomarra"
-linkedin_username: "tomarra"
-mastodon_username: "tomarra"
-mastodon_servername: "mastodon.social"
-instagram_username: tom_arra
-
-# PAGE GENERATION
-
-# Formatters
-permalink: pretty
+#-------------------------------
+# Build Settings
 markdown: kramdown
-kramdown:
-  auto_ids: false
-
-# Sass compilation
-sass:
-  sass_dir: _sass
-
-# Pagination
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# Gems for GitHub
+permalink: /:year/:month/:day/:title:output_ext
 plugins:
   - jekyll-paginate
-  - jekyll-coffeescript
+  - jekyll-sitemap
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed

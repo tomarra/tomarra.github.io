@@ -2,8 +2,8 @@
 layout: post
 title: "Nokia Portable Wireless Speaker (MD-12) Review"
 date: 2014-09-25
-banner_image: Nokia_Bluetooth_Speaker.jpg
-tags: hardware music bluetooth bluetoothspeaker nokia speaker
+image: Nokia_Bluetooth_Speaker.jpg
+tags: hardware nokia
 ---
 
 _Disclaimer: I did work for Nokia/Microsoft while I was reviewing this unit. That being said this was bought as a personal product that I intend to keep, not through internal employee sources._
@@ -11,8 +11,6 @@ _Disclaimer: I did work for Nokia/Microsoft while I was reviewing this unit. Tha
 I like to always have background noise. It drives my wife nuts but oh well it’s how I work best. I tend to have either music/podcasts playing or the TV on whenever I am working or just getting stuff done around the house. Naturally the source of a lot of this media is my plethora of devices but most of the time the built in speaker just doesn’t cut it. For the past few months I have been on the search for a good bluetooth speaker and I think I finally have landed on it.
 
 The Nokia MD-12 is their new portable wireless speaker. It’s quite small, comes in the bright colors the market has begun to realize are fun, and has an interesting new feature when it comes to audio quality.
-
-<!--more-->
 
 **Look and Feel**
 

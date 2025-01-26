@@ -13,6 +13,7 @@
     "arenanats",
     "arment",
     "arra",
+    "artem",
     "bestbuy",
     "bikebuddy",
     "bikesharebuddy",
@@ -73,6 +74,7 @@
     "macbookadorable",
     "macdrifter",
     "macports",
+    "mailchimp",
     "mashable",
     "neildegrassetyson",
     "norte",
@@ -97,7 +99,9 @@
     "rosettacode",
     "sainty",
     "scobel",
+    "scssify",
     "servername",
+    "sheludko",
     "simpledesktop",
     "siri",
     "smugmug",
@@ -129,9 +133,8 @@
     "wolfenstein",
     "workfromhome",
     "wwdc",
+    "xmlschema",
     "xoom"
   ],
-  "ignorePaths": [
-    "vendor/bundle/**"
-  ]
+  "ignorePaths": ["vendor/bundle/**"]
 }
