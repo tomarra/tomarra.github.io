@@ -1,3 +1,5 @@
+@use "../0-settings/variables" as *;
+
 /* Article */
 .article {
   margin-bottom: 60px;
@@ -10,7 +12,7 @@
 .article__title {
   margin-bottom: 32px;
   font-size: 48px;
-  line-height: .85em;
+  line-height: 0.85em;
   text-transform: uppercase;
 
   a {

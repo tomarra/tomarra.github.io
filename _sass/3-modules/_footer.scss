@@ -1,3 +1,5 @@
+@use "../0-settings/variables" as *;
+
 /* Footer */
 .footer {
   margin-top: 96px;
@@ -26,7 +28,7 @@
         height: 100px;
         background-color: var(--border-color-alt);
       }
-      
+
       &:first-child {
         padding: 0 40px 0 $base-spacing-unit;
         &::after {
@@ -46,10 +48,10 @@
 
       &:last-child {
         padding: 0 $base-spacing-unit 0 40px;
-        
+
         @media only screen and (max-width: $desktop) {
           padding: 0 $base-spacing-unit;
-          
+
           &::after {
             content: none;
           }
@@ -63,18 +65,17 @@
           content: none;
         }
       }
-
     }
   }
 
   @media only screen and (max-width: $desktop) {
-    .row .col:last-child>.widget {
+    .row .col:last-child > .widget {
       margin-bottom: 0;
     }
   }
 
   @media only screen and (max-width: $tablet) {
-     margin-top: 60px;
+    margin-top: 60px;
   }
 }
 
@@ -98,7 +99,6 @@
 
 /* Widget Info */
 .widget-info {
-
   .footer-logo {
     .footer-logo__link {
       font-size: 20px;
@@ -108,7 +108,7 @@
       color: var(--light-gray);
     }
   }
-  
+
   .footer-text {
     margin: 0;
     font-size: 14px;
@@ -139,25 +139,22 @@
       color: var(--light-gray);
       border: 1px solid var(--border-color-alt);
       border-radius: 14px;
-      transition: all .25s;
+      transition: all 0.25s;
       &:hover {
         transform: translate3d(3px, -3px, 0);
         box-shadow: -3px 3px 0 var(--light-gray);
       }
     }
   }
-  
 }
 
 /* Widget Subscribe */
 .widget-subscribe {
-
   .subscribe__inner {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
   }
-
 
   .subscribe__group {
     margin-bottom: 32px;
@@ -188,7 +185,7 @@
       border: 2px solid var(--border-color-alt);
       border-radius: 4px;
       background: transparent;
-      transition: .25s ease-in-out;
+      transition: 0.25s ease-in-out;
       outline: 0;
 
       &::placeholder {
@@ -263,7 +260,6 @@
     &:last-child {
       margin-right: 0;
     }
-
   }
 }
 
@@ -275,7 +271,7 @@
   justify-content: space-between;
   padding: 44px 0;
   border-top: 1px solid var(--border-color-alt);
-  
+
   @media only screen and (max-width: $mobile) {
     flex-direction: column;
     align-items: flex-start;

@@ -1,7 +1,9 @@
 
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+ruby "3.3.4"
+
+gem "jekyll", "~> 4.2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -11,5 +13,5 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem "thin"
+#gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+#gem "thin"
