@@ -14,7 +14,7 @@ $(document).ready(function () {
   if (window.matchMedia) {
     // Check to see if system dark mode is enabled
     var match = window.matchMedia("(prefers-color-scheme: dark)");
-    if (match.matches) {
+    if (match.matches && localStorage.getItem("theme") !== "dark") {
       darkMode();
     }
 
