@@ -1,4 +1,5 @@
 @use "sass:math";
+@use "../0-settings/variables" as *;
 
 /* Grid */
 $columns: 12;

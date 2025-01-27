@@ -1,3 +1,5 @@
+@use "../0-settings/variables" as *;
+
 .top {
   position: fixed;
   bottom: 36px;
@@ -12,8 +14,8 @@
   background-color: var(--background-alt-color);
   color: var(--light-gray);
   cursor: pointer;
-  transition: all .25s ease;
-  box-shadow: 0px 0px 20px rgba(0,0,0,0.05);
+  transition: all 0.25s ease;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
 
   &:hover {
     color: var(--white);
