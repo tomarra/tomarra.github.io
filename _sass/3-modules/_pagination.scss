@@ -1,3 +1,5 @@
+@use "../0-settings/variables" as *;
+
 /* Pagination */
 .pagination__inner {
   display: flex;
@@ -8,7 +10,7 @@
   border-bottom: 1px solid var(--border-color);
 
   @media only screen and (max-width: $mobile) {
-    padding: 32px 0
+    padding: 32px 0;
   }
 }
 
