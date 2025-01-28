@@ -24,7 +24,7 @@ The deployment I had set up before was just based on changes to the `main` branc
 
 This one took longer than I expected. In moving up to Jekyll 4, you also end up bumping the versions of SCSS that is being used and they are going through some changes. I’m still not 100% sure I got all the changes correct, but at this point it builds and deploys so I’m not complaining. I more wanted to call this out as it’s probably going to be something that comes for everyone else using GitHub Pages in the future so be ready!
 
-## New Feature - 🔗 Link Posts!
+## New Feature - 🔗 Link Posts
 
 One thing that I always liked from Daring Fireball was the ability for some posts to just be simple links out to other pages. No need to have a full post just to share a link and have a tiny comment. But the key is actually making those posts here rather than something like Bluesky/Twitter/Threads.
 
