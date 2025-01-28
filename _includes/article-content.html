@@ -35,7 +35,8 @@
 
       {% if post.layout == "link_post" %}
       <div class="article__meta">
-        <a href="{{ post.link_url }}">Original Link</a>
+        <a href="{{ post.link_url }}">Original Link</a> |
+        <a href="{{ post.url }}">Permalink</a>
       </div>
       {% endif %}
 
