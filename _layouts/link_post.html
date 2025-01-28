@@ -2,4 +2,41 @@
 layout: default
 ---
 
+<!-- begin post -->
+<div class="container">
+  <div class="post__info">
+    <h1 class="post__title">🔗 {{ page.title | escape }}</h1>
+    <div class="post__meta">
+      <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}"
+        >{{ page.date | date_to_long_string }}</time
+      >
+      –
+      <span class="post__minutes"
+        >{% assign words = page.content | number_of_words %} {% if words < 360
+        %} 1 min read {% else %} {{ words | divided_by:180 }} min read {% endif
+        %}
+      </span>
+    </div>
+  </div>
+
+  <article class="post">
+    <div class="post__content">{{ content }}</div>
+
+    <div class="article__meta">
+      <a href="{{ page.link_url }}">Original Link</a>
+    </div>
+
+    <div class="post__bottom">
+      {% if page.tags.size >= 1 %}
+      <div class="post__tags">
+        {% for tag in page.tags %}
+        <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag"
+          >{{ tag }}</a
+        >
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </article>
+</div>
 <!-- end post -->
