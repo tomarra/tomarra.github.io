@@ -55,7 +55,7 @@ Now that a working prototype existed, feedback was collected from curlers to gui
 - Make all the touch points much bigger for use on the tablet, especially with cold & sometimes stiff hands.
 - Have some kind of way to see how you're doing on game time as compared to the suggested time for a game
 
-Perfect, a lot of items but need to knock them out one by one. It didn’t take long to realize that the bad layout code I spoke of earlier also was being felt in the state management of the application as well. Everything was one giant object and I couldn’t break it down to make tiny changes. That led me down almost a full rewrite and restructure of the code to allow for the changes needed. It was a lot of work, but I’m pretty happy with where things landed. While I would have liked to use something like Bloc or Cubit, my use case was so small that just using good old `setState` gets the job done for me.
+Perfect, a lot of items but need to knock them out one by one. It didn’t take long to realize that the bad layout code I spoke of earlier also was being felt in the state management of the application as well. Everything was one giant object and I couldn’t break it down to make tiny changes. That led me down almost a full rewrite and restructure of the code to allow for the changes needed. It was a lot of work, but I’m pretty happy with where things landed. While I would have liked to use something like [Bloc or Cubit](https://bloclibrary.dev), my use case was so small that just using good old `setState` gets the job done for me.
 
 ## The First Real MVP
 
@@ -75,8 +75,8 @@ After getting that set and selecting Start Game you're ready to go! As you can s
 ![Version 0.0.19 In Game]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.19-In-Game.png)
 _A working scoreboard with a game in progress_
 
-And that’s where I am today. Overall, the feedback from all the curlers has been great and the few tweaks I have made over the last month have made it a great setup for our club and something unique as compared to other facilities. There for sure is more work to be done, but we are at a good stopping point right now. The next feature requests would get live scores and game reports saved to a backend so we can include it in other functions the club has, like our live streams on YouTube, but that’s a project for another time.
+And that’s where I am today. Overall, the feedback from all the curlers has been great and the few tweaks I have made over the last month have made it a great setup for our club and something unique as compared to other facilities. There for sure is more work to be done, but we are at a good stopping point right now. The next feature requests would get live scores and game reports saved to a backend so we can include it in other functions the club has, like [our live streams on YouTube](https://www.youtube.com/@WindyCityCurling/streams), but that’s a project for another time.
 
 If you’re curious about how I wrote this, the code is all [open source and available on GitHub](https://github.com/tomarra/curling_scoreboard_flutter). You can also just experiment with it in your browser at [curlingscoreboard.app](https://curlingscoreboard.app). It’s just deployed as a Flutter Web App and that’s how we run it on the tablets in the club as well.
 
-Good curling! 🥌
+Good Curling! 🥌

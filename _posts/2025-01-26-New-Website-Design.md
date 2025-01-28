@@ -18,15 +18,15 @@ I had to spend a bit of time getting things updated though, and there was one fe
 
 First thing I noticed, the new theme slowed down page generation during development a lot. With the old theme, it was a couple seconds, with the new theme usually over thirty. That’s just not acceptable. How to get it back down? Move on up to Jekyll 4. That unfortunately came with two issues: deployments on GitHub Pages and deprecation warnings.
 
-The deployment I had set up before was just based on changes to the `main` branch. I discovered that the GitHub Pages environment for these deploys are currently locked to an older version of Jekyll. You can still update beyond that, but then you have to take deployments into your own hands. Well, some GitHub Actions to the rescue and that’s now taken care of.
+The deployment I had set up before was just based on changes to the `main` branch. I discovered that the GitHub Pages environment for these deploys are currently locked to an older version of Jekyll. You can still update beyond that, but then you have to take deployments into your own hands. Well, some [GitHub Actions](https://github.com/tomarra/tomarra.github.io/blob/main/.github/workflows/jekyll_deploy.yml) to the rescue and that’s now taken care of.
 
 ### Deprecation
 
-This one took longer than I expected. In moving up to Jekyll 4, you also end up bumping the versions of SCSS that is being used and they are going through some changes. I’m still not 100% sure I got all the changes correct, but at this point it builds and deploys so I’m not complaining. I more wanted to call this out as it’s probably going to be something that comes for everyone else using GitHub Pages in the future so be ready!
+This one took longer than I expected. In [moving up to Jekyll 4](https://jekyllrb.com/docs/upgrading/3-to-4/), you also end up bumping the versions of [SCSS](https://sass-lang.com) that is being used and they are going through some changes. I’m still not 100% sure I got all the changes correct, but at this point it builds and deploys so I’m not complaining. I more wanted to call this out as it’s probably going to be something that comes for everyone else using GitHub Pages in the future so be ready!
 
 ## New Feature - 🔗 Link Posts
 
-One thing that I always liked from Daring Fireball was the ability for some posts to just be simple links out to other pages. No need to have a full post just to share a link and have a tiny comment. But the key is actually making those posts here rather than something like Bluesky/Twitter/Threads.
+One thing that I always liked from [Daring Fireball](https://daringfireball.net) was the ability for some posts to just be simple links out to other pages. No need to have a full post just to share a link and have a tiny comment. But the key is actually making those posts here rather than something like Bluesky/Twitter/Threads.
 
 My implementation of this consists of:
 
