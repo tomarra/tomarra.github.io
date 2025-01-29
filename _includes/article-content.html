@@ -28,10 +28,10 @@
         {% endif %}
       </div>
 
-      <p class="article__excerpt">
+      <div class="article__excerpt">
         {% if post.layout == "post" %} {{ post.description }} {% elsif
         post.layout == "link_post" %} {{ post.content }} {% endif %}
-      </p>
+      </div>
 
       {% if post.layout == "link_post" %}
       <div class="article__meta">
