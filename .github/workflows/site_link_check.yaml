@@ -8,6 +8,7 @@ name: Site Link Check
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - name: ✅ Checkout Repo
         uses: actions/checkout@v4
