@@ -3,6 +3,7 @@ layout: post
 title: Remote Work Has Always Been My Reality
 description: I was inspired to have a look back at things in reading some blog posts by the Railway team and realized that I've always been a remote worker.
 date: 2025-03-02
+image: Remote_Work.jpeg
 tags: work
 ---
 
