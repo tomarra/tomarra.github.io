@@ -4,6 +4,9 @@ on:
     - cron: "0 0 * * 0"
 
 name: Site Link Check
+permissions:
+  contents: read
+  issues: write
 
 jobs:
   linkChecker:
