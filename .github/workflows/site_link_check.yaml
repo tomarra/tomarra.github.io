@@ -28,7 +28,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2.6.1
         with:
           args: --cache --max-cache-age 1d --verbose './**/*.md' './**/*.html'
-          fail: false
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
