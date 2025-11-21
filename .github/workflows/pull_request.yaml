@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ✅ Checkout Repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: 💎 Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -42,7 +42,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ✅ Checkout Repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: 🅰️ Check spelling
         uses: streetsidesoftware/cspell-action@v7
