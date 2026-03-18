@@ -1,3 +1,7 @@
 .*%7B%7B.*
 .*localhost.*
 .*twitter\.com.*
+# HTTP/2 protocol errors
+.*logitechg\.com.*
+# Persistent timeouts
+http://www\.codeyear\.com/

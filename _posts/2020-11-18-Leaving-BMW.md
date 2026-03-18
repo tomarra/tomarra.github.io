@@ -7,7 +7,7 @@ image: Leaving_BMW.png
 tags: bmw work vgv
 ---
 
-It's been [six years](https://tomarra.com/2014/09/19/looking-back-at-novkiasoft/) since I had to write a post like this. Truthfully, at least for me, it's never easy.
+It's been [six years](https://tomarra.com/2014/09/19/looking-back-at-novkiasoft.html) since I had to write a post like this. Truthfully, at least for me, it's never easy.
 
 Unfortunately BMW has made the decision to shut down the Chicago Technology Office. I'm not going to beat around the bush here, this really sucks. I was lucky enough to be one of the approximately 40 people who started the office back in 2014 and over these last six years not only was I able to work on some really awesome projects, I got a chance to grow and lead and for that I will always be grateful.
 
