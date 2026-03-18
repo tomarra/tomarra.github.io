@@ -3,8 +3,7 @@
   {% include head.html %}
 
   <body>
-    {% if site.google-analytics %} {% include google-analytics.html %} {% endif
-    %} {% include header.html %}
+    {% include header.html %}
 
     <!-- begin content -->
     <main class="content" aria-label="Content">{{ content }}</main>
@@ -14,7 +13,7 @@
 
     {% include footer.html %}
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script src="{{ site.baseurl }}/js/scripts.js"></script>
   </body>
 </html>
