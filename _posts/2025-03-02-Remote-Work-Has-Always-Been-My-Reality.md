@@ -1,8 +1,18 @@
 ---
-published: true
-date: 2025-03-03
+layout: post
 title: Remote Work Has Always Been My Reality
+description: While everyone figured out how to work from home in 2020, in looking back at it I've been doing it even when I was sitting in an office in downtown Chicago.
+date: 2025-03-02
+tags: work remote
 ---
+
+layout: post
+title: 2025 Rockford 70.3 Race Report
+description: It was a wild weekend for the inaugural Rockford 70.3 and wanted to capture all the details I could remember. It was a tough race but I learned a lot and enjoyed it.
+date: 2025-06-29
+image: 2025_Rockford70.3_Finisher.jpeg
+tags: triathlon
+
 For many, the transition to remote work was a dramatic shift forced by circumstance, requiring companies and employees alike to rethink how work gets done. But for me, remote work has never felt like a radical departure from the norm. Even when I worked in traditional office settings at companies like Nokia, Microsoft, and BMW, I was rarely in the “home office.” My teams were distributed across many countries, my meetings were virtual, and my work operated across time zones. In a sense, I was remote long before I was fully remote.
 
 The idea for this look back actually came from looking forward. As I joined [Shorebird](https://www.shorebird.dev) and they were adding to the team for the first time in a while the "way of working" topic started coming up again and again. This caused the ["How We Work" series by the Railway team](https://blog.railway.com/p/how-we-work) to come up and be shared. They started this series in 2021 and have been adding in a new volume _almost_ every year. You can check out [part 2](https://blog.railway.com/p/how-we-work-volume-ii), [part 3](https://blog.railway.com/p/how-we-work-volume-iii), and [part 4](https://blog.railway.com/p/how-we-work-volume-iv) as well.

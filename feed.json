@@ -8,7 +8,7 @@
   "description": "",
   "author": {
     "name": "Tom Arra",
-    "url": "http://tomarra.com"
+    "url": "{{ site.url }}"
   },
   "items": [{% for post in site.posts %}
     {
