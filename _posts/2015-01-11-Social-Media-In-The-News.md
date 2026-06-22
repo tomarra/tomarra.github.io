@@ -2,7 +2,7 @@
 layout: post
 title: "Learning How Social Media Is Used In The Daily News"
 date: 2015-01-11
-image: Social_Media_In_The_News.png
+image: Social_Media_In_The_News.webp
 tags: chicago news
 ---
 

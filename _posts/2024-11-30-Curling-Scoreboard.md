@@ -3,7 +3,7 @@ layout: post
 title: New Project - Curling Scoreboard
 description: I just can't seem to help myself 🤦‍♂️ Another little side project to help out the curling club and our electronic scoreboards.
 date: 2024-11-30
-image: Curling-Scoreboard-In-Action.jpg
+image: Curling-Scoreboard-In-Action.webp
 tags: curling software
 ---
 
@@ -34,7 +34,7 @@ Holy crap. I’m less than 30 minutes into working on this and I have a function
 
 After some manual code adjustments, the result more closely resembled my original vision. Looking back at the original prompt, I can see where I could have made some little tweaks to get closer to this in the first pass. My first actual attempt at coding with an LLM proved to be a valuable learning experience.
 
-![Version 0.0.1]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.1.png)
+![Version 0.0.1]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.1.webp)
 _The very first version of Curling Scoreboard, only 30ish minutes into development._
 
 After this point, I focused on fine-tuning to meet my specifications. Nothing super foundational as that was all laid out for me in that first prompt. It was good enough performance wise to deploy, but it didn’t look like what we wanted on the screen. So between the current scoreboards still working and the curling season wrapping up, this project went back on the shelf.
@@ -45,7 +45,7 @@ Fast forward to October 2025. The club is finally ready to reopen after the [fac
 
 Step one, actually get the layout correct. This took longer than I expected as some of that ChatGPT generated code was just not great. It very much seemed like a student coming out of college wrote it and knew nothing about dynamic layout. But some hacking around and we end up with the first version that is actually usable and looks halfway decent for the people playing and spectators in the warm room.
 
-![Version 0.0.8]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.8.png)
+![Version 0.0.8]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.8.webp)
 _The first useable version that went into "production"_
 
 Now that a working prototype existed, feedback was collected from curlers to guide more updates. There were some simple things that kept coming up, which ended up creating the backlog for work.
@@ -67,12 +67,12 @@ The players start by setting up the game. Only need to select a couple of things
 - Number of Players: We have both normal team curling and Doubles in our leagues. This is important so we can get the game clock correct as a Doubles game should be quicker. Also want to enforce the blank in doubles switches hammer rule.
 - Hammer in 1st End: Knowing this allows for a hammer icon to be shown for the team that currently has hammer.
 
-![Version 0.0.19 Start]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.19-Start.png)
+![Version 0.0.19 Start]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.19-Start.webp)
 _What players see when they are getting ready to start a game_
 
 After getting that set and selecting Start Game you're ready to go! As you can see below, the scoreboard is pretty big and easy to read. The Game Time counts up so you know the total time taken and the +/- clock is where you are in relation to a standard timetable. The goal there is to help all players with the pace of play, which is a constant struggle from club to club.
 
-![Version 0.0.19 In Game]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.19-In-Game.png)
+![Version 0.0.19 In Game]({{site.baseurl}}/images/posts/Curling_Scoreboard-0.0.19-In-Game.webp)
 _A working scoreboard with a game in progress_
 
 And that’s where I am today. Overall, the feedback from all the curlers has been great and the few tweaks I have made over the last month have made it a great setup for our club and something unique as compared to other facilities. There for sure is more work to be done, but we are at a good stopping point right now. The next feature requests would get live scores and game reports saved to a backend so we can include it in other functions the club has, like [our live streams on YouTube](https://www.youtube.com/@WindyCityCurling/streams), but that’s a project for another time.

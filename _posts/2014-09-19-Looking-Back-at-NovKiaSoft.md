@@ -2,7 +2,7 @@
 layout: post
 title: "Looking Back at NovKiaSoft"
 date: 2014-09-19
-image: NovKiaSoft.png
+image: NovKiaSoft.webp
 tags: work
 ---
 

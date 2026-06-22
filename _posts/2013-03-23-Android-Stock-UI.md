@@ -2,7 +2,7 @@
 layout: post
 title: "Most Android users don't even know about the stock UI"
 date: 2013-03-23
-image: Stock_Android_Experience.png
+image: Stock_Android_Experience.webp
 tags: software android
 ---
 

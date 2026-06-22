@@ -2,7 +2,7 @@
 layout: post
 title: "Masters of Doom - Book Review"
 date: 2014-05-19
-image: Doom_Book_Review.jpg
+image: Doom_Book_Review.webp
 tags: books review
 ---
 

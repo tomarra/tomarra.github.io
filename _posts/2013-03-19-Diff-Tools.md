@@ -2,7 +2,7 @@
 layout: post
 title: "The difference between diff.tool and diff.guitool"
 date: 2013-03-19
-image: Git_Logo.png
+image: Git_Logo.webp
 tags: software
 ---
 

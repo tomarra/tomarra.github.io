@@ -2,7 +2,7 @@
 layout: post
 title: "What I Use - Mac Software"
 date: 2014-08-15
-image: Mac_Apps.jpg
+image: Mac_Apps.webp
 tags: software mac
 ---
 

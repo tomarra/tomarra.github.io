@@ -2,7 +2,7 @@
 layout: post
 title: "New Look, New Host, New Content (hopefully)"
 date: 2014-05-18
-image: Wordpress_Azure.png
+image: Wordpress_Azure.webp
 tags: website
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Leaving BMW
 description: It's been six years since I had to write a post like this. Truthfully, at least for me, it's never easy. Unfortunately BMW has made the decision to shut down the Chicago Technology Office. I'm not going to beat around the bush here, this really sucks.
 date: 2020-11-18
-image: Leaving_BMW.png
+image: Leaving_BMW.webp
 tags: bmw work vgv
 ---
 

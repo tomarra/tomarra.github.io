@@ -2,7 +2,7 @@
 layout: post
 title: "Apple is Quietly Killing iPad only Applications"
 date: 2014-09-26
-image: Universal_Apps.png
+image: Universal_Apps.webp
 tags: software apple
 ---
 
