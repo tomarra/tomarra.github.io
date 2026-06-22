@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2025 Chicago Marathon
-description: Something a bit less scary about doing a big thing the second time around. Could it have ended better, of course. But every race is a chance to grow and that certianly happened this time around.
+description: Something a bit less scary about doing a big thing the second time around. Could it have ended better, of course. But every race is a chance to grow and that certainly happened this time around.
 date: 2025-10-22
 image: 2025_Chicago_Marathon_Finisher.jpg
 tags: marathon
