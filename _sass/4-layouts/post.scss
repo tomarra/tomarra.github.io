@@ -287,6 +287,33 @@
   }
 }
 
+// Side-by-side image pair
+.image-pair {
+  display: flex;
+  margin: 32px 0;
+
+  figure {
+    flex: 1;
+    margin-right: 16px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  @media only screen and (max-width: $mobile) {
+    flex-direction: column;
+  }
+}
+
+.image-pair-img {
+  border-radius: 4px;
+  display: block;
+  height: 300px;
+  object-fit: cover;
+  width: 100%;
+}
+
 /* 404 */
 .error {
   margin-bottom: 0;
