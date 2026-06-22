@@ -46,11 +46,11 @@ I checked my gear and headed to the corral. I got a chance to finally see Mindi 
 
 <div class="image-pair">
   <figure>
-    <img class="image-pair__img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Kim.jpg" alt="Kim before the race">
+    <img class="image-pair-img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Kim.jpg" alt="Kim before the race">
     <em>Kim, running her 10th Chicago Marathon</em>
   </figure>
   <figure>
-    <img class="image-pair__img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Mindi.JPG" alt="Mindi before the race">
+    <img class="image-pair-img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Mindi.JPG" alt="Mindi before the race">
     <em>Mindi, ready to run Chicago</em>
   </figure>
 </div>
