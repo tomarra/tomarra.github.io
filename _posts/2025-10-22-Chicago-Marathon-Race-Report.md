@@ -3,7 +3,7 @@ layout: post
 title: 2025 Chicago Marathon
 description: Something a bit less scary about doing a big thing the second time around. Could it have ended better, of course. But every race is a chance to grow and that certainly happened this time around.
 date: 2025-10-22
-image: 2025_Chicago_Marathon_Finisher.jpg
+image: 2025_Chicago_Marathon_Finisher.webp
 tags: marathon
 ---
 
@@ -37,7 +37,7 @@ As the week went on I realized something. I wasn't nervous. At this point last y
 
 I had my whole morning planned out so up at 4:30AM and at the Oak Park Green Line station by 5:15. Into the Loop and through security by 6AM. I got to spend some time reflecting because I was so early getting in. The whole time I was waiting to get those butterflies but instead it was an overwhelming feeling of "let's do this".
 
-![Early Morning in Grant Park]({{site.baseurl}}/images/posts/2025_Chicago_Marathon_Early_Morning.jpeg)
+![Early Morning in Grant Park]({{site.baseurl}}/images/posts/2025_Chicago_Marathon_Early_Morning.webp)
 _Early Morning in Grant Park before the buzz of the Marathon picks up._
 
 It was then, when the sun was coming up over the lake and Grant Park began to fill, that I realized, oh man maybe I do actually belong here now. I mean let's be honest, running a marathon is a dumb idea no matter how much you train. But knowing that I had put in the work made everything click. It was time to go have some fun.
@@ -46,11 +46,11 @@ I checked my gear and headed to the corral. I got a chance to finally see Mindi 
 
 <div class="image-pair">
   <figure>
-    <img class="image-pair-img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Kim.jpg" alt="Kim before the race">
+    <img class="image-pair-img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Kim.webp" alt="Kim before the race">
     <em>Kim, running her 10th Chicago Marathon</em>
   </figure>
   <figure>
-    <img class="image-pair-img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Mindi.JPG" alt="Mindi before the race">
+    <img class="image-pair-img" src="{{site.baseurl}}/images/posts/2025_Chicago_Marathon_Mindi.webp" alt="Mindi before the race">
     <em>Mindi, ready to run Chicago</em>
   </figure>
 </div>
@@ -67,7 +67,7 @@ I stuck to the plan. Kept enjoying the course, the spectators, and the energy of
 
 We made our way up through mile 8 and started to make the turn back south. This part of the course is just amazing. People lining the streets is just expected but the fun part is the neighborhoods. Each one you run through had a different feel that not only kept you engaged but entertained. Add that to the folks outside the bars at 9AM ready to hand you a beer and you have quite the mix of people.
 
-![Coming back into the Loop]({{site.baseurl}}/images/posts/2025_Chicago_Marathon_During.jpg)
+![Coming back into the Loop]({{site.baseurl}}/images/posts/2025_Chicago_Marathon_During.webp)
 _Maybe about 10 miles in, on the way back into the loop from the North side._
 
 Clicking through the miles and at halfway you're back in the loop. Looking at my watch I see a 2:05 and with some quick math realize that I'm right on pace and that 4:10 sign is right next to me. I get a chance to see my family again as we head out into the West Side. This is where the mental side of this race was going to get me. Last year I was able to make it just to the mile 16 aid station before I had to walk, but at this point I knew I'd done this before and wanted to hang on as long as I could. I saw the rest stop, grabbed my water, and kept on moving. I was feeling good and knew that I could at least make it to the next family sighting just past 17.
@@ -80,7 +80,7 @@ There's a nice little out and back around mile 23 where you see the route back d
 
 One more family sighting right before mile 26, stick with a jog up Mount Roosevelt, and then haul ass to the line with that little downhill on Columbus. When I crossed the line and stopped my watch I knew the main goal was complete but I was still hoping for a good time. I have to say I was a bit pissed off when I saw 4:24. Yes it was a PR, but I knew that 4:10 was there for the taking and I missed it.
 
-![In the finish chute]({{site.baseurl}}/images/posts/2025_Chicago_Marathon_Finish_Chute.jpg)
+![In the finish chute]({{site.baseurl}}/images/posts/2025_Chicago_Marathon_Finish_Chute.webp)
 _Hard not to enjoy it when your in the finish chute on Columbus Ave._
 
 That feeling goes away once you get your free beer, grab your gear, and find your friends and family again but I would be lying if I said it's still not sitting in the back of my mind. There is for sure some unfinished business I have on this course and someday in the future it's going to be dealt with. But for now I get to call myself a two-time marathoner and live to run another day.

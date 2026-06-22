@@ -2,7 +2,7 @@
 layout: post
 title: "You use Microsoft Hardware on your Mac?"
 date: 2014-10-01
-image: Microsoft_Hardware.png
+image: Microsoft_Hardware.webp
 tags: hardware
 ---
 

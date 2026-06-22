@@ -10,7 +10,7 @@ layout: post
 title: 2025 Rockford 70.3 Race Report
 description: It was a wild weekend for the inaugural Rockford 70.3 and wanted to capture all the details I could remember. It was a tough race but I learned a lot and enjoyed it.
 date: 2025-06-29
-image: 2025_Rockford70.3_Finisher.jpeg
+image: 2025_Rockford70.3_Finisher.webp
 tags: triathlon
 
 For many, the transition to remote work was a dramatic shift forced by circumstance, requiring companies and employees alike to rethink how work gets done. But for me, remote work has never felt like a radical departure from the norm. Even when I worked in traditional office settings at companies like Nokia, Microsoft, and BMW, I was rarely in the “home office.” My teams were distributed across many countries, my meetings were virtual, and my work operated across time zones. In a sense, I was remote long before I was fully remote.

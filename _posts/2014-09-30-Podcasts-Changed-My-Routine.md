@@ -2,7 +2,7 @@
 layout: post
 title: "Podcasts Changed My Routine"
 date: 2014-09-30
-image: Podcasts.png
+image: Podcasts.webp
 tags: podcasts
 ---
 

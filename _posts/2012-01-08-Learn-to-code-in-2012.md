@@ -2,7 +2,7 @@
 layout: post
 title: "Learn to Code in 2012"
 date: 2012-01-09
-image: Learn_To_Code.jpg
+image: Learn_To_Code.webp
 tags: software
 ---
 

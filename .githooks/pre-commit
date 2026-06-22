@@ -1,0 +1,45 @@
+#!/bin/bash
+# Pre-commit hook: converts staged JPG/JPEG/PNG images to WebP automatically.
+# Install once with: ./scripts/install-hooks.sh
+
+QUALITY_PHOTO=82
+QUALITY_SCREENSHOT=88
+
+if ! command -v cwebp &>/dev/null; then
+    echo "Warning: cwebp not found — skipping image optimization. Install with: brew install webp"
+    exit 0
+fi
+
+STAGED_IMAGES=$(git diff --cached --name-only --diff-filter=A | grep -iE '\.(jpg|jpeg|png)$' || true)
+
+if [ -z "$STAGED_IMAGES" ]; then
+    exit 0
+fi
+
+CONVERTED=0
+
+while IFS= read -r img; do
+    [ -z "$img" ] && continue
+    [ -f "$img" ] || continue
+
+    webp_path="${img%.*}.webp"
+
+    if echo "$img" | tr '[:upper:]' '[:lower:]' | grep -q '\.png$'; then
+        quality=$QUALITY_SCREENSHOT
+    else
+        quality=$QUALITY_PHOTO
+    fi
+
+    cwebp -q "$quality" -quiet "$img" -o "$webp_path"
+    rm "$img"
+    git rm --cached "$img" >/dev/null 2>&1
+    git add "$webp_path"
+
+    echo "  Optimized: $img → $webp_path"
+    CONVERTED=$((CONVERTED + 1))
+done <<< "$STAGED_IMAGES"
+
+if [ "$CONVERTED" -gt 0 ]; then
+    echo ""
+    echo "  $CONVERTED image(s) converted to WebP. Reference them with the .webp extension in your posts."
+fi

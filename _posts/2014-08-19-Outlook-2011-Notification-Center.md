@@ -2,7 +2,7 @@
 layout: post
 title: "Outlook 2011 for Mac and Notification Center"
 date: 2014-08-19
-image: Outlook_Notifications.png
+image: Outlook_Notifications.webp
 tags: software
 ---
 

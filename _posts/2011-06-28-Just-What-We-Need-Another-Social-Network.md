@@ -7,7 +7,7 @@ tags: web google
 
 Looks like Google is going to try it’s hand again at some kind of social network. The landing page for [Google+](http://plus.google.com/) has just surfaced and with that it seems as though Google is rolling out some possible rebranding.
 
-![Black Google Top Bar]({{ site.baseurl }}/images/posts/Google_Top_Black_Bar.png)
+![Black Google Top Bar]({{ site.baseurl }}/images/posts/Google_Top_Black_Bar.webp)
 
 Really Google? A black top bar? Doesn’t that go against your entire web UI?
 

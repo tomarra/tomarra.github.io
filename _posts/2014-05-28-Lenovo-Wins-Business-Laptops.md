@@ -2,7 +2,7 @@
 layout: post
 title: "Lenovo Wins Business Laptops Once Again"
 date: 2014-05-28
-image: ThinkPad_Laptop.jpg
+image: ThinkPad_Laptop.webp
 tags: hardware review
 ---
 
@@ -22,7 +22,7 @@ One other thing they chose to include on the T440s that other (smaller) Lenovo l
 
 The battery setup of the T440s is a little unique. When you flip the device over you only see a small 3 cell battery that is user removable. At first this scared me thinking that battery life was going to be abysmal but upon booting up to the desktop for the first time I was surprised to find a battery life estimate of almost 7 hours. This is achieved by having a separate, non-removable 3 cell battery inside the laptop. This shows as a second battery (seen below) and gives you the benefit of hot swap-able batteries as long as you have some juice left.
 
-![T440s Battery Panel]({{ site.baseurl }}/images/posts/Lenovo_T440s_Battery.png)
+![T440s Battery Panel]({{ site.baseurl }}/images/posts/Lenovo_T440s_Battery.webp)
 
 On top of that the new power supply is incredibly small 65W power brick that is very easy to carry around and uses the new Lenovo flat connector for interchangeability with other Lenovo laptops.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Photo backup's are no longer just for techies"
 date: 2014-08-11
-image: Cloud_Backup.png
+image: Cloud_Backup.webp
 tags: software photos
 ---
 

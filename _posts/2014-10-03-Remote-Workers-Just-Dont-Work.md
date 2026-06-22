@@ -2,7 +2,7 @@
 layout: post
 title: "Remote Workers Just Don't Work"
 date: 2014-10-03
-image: Remote_Workers.png
+image: Remote_Workers.webp
 tags: remote work
 ---
 

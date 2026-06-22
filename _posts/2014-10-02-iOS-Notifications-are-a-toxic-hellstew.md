@@ -2,7 +2,7 @@
 layout: post
 title: "iOS Notifications are a Toxic Hellstew"
 date: 2014-10-02
-image: iOS_Notifications.png
+image: iOS_Notifications.webp
 tags: software
 ---
 

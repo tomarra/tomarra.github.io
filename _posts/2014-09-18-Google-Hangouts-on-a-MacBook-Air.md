@@ -2,7 +2,7 @@
 layout: post
 title: "Google Hangouts on a MacBook Air"
 date: 2014-09-18
-image: Hangouts_On_Air.png
+image: Hangouts_On_Air.webp
 tags: software
 ---
 

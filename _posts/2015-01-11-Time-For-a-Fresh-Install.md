@@ -2,7 +2,7 @@
 layout: post
 title: "Time for a Fresh Install"
 date: 2015-01-11
-image: Mac_Apps_Part2.png
+image: Mac_Apps_Part2.webp
 tags: software mac
 ---
 

@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 title: Tom Arra
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: # You can add own logo. For example '/images/logo.webp'.
 description: Thoughts, stories and ideas. Mostly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomarra.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ url: "https://tomarra.com" # the base hostname & protocol for your site, e.g. ht
 # Author Settings
 author:
   name: Tom Arra
-  avatar: "/images/headshot.jpg"
+  avatar: "/images/headshot.webp"
 
 social:
   - { icon: "fa-twitter", label: Twitter, link: "https://twitter.com/tom_arra" }
@@ -53,7 +53,7 @@ social:
 hero:
   hero__title: Hey, I’m Tom! Product Leader & Engineer.
   hero__description: I'm a product leader & engineer who loves to work with global teams and products. I help organize the corporate chaos to make the best solutions for customers. Here I post about not just tech but a few hobbies as well.
-  hero__image: "/images/headshot.jpg"
+  hero__image: "/images/headshot.webp"
 
 #-------------------------------
 # Build Settings

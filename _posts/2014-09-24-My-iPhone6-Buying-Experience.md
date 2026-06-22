@@ -2,7 +2,7 @@
 layout: post
 title: "My iPhone 6 Buying Experience"
 date: 2014-09-24
-image: iPhone6_Buying.png
+image: iPhone6_Buying.webp
 tags: hardware apple
 ---
 

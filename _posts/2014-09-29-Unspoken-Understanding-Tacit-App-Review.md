@@ -2,7 +2,7 @@
 layout: post
 title: "Unspoken Understanding - Tacit App Review"
 date: 2014-09-29
-image: Tacit.png
+image: Tacit.webp
 tags: software review
 ---
 
