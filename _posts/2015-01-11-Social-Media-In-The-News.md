@@ -20,13 +20,13 @@ Within an hour I had requests from producers of 5 different networks asking for 
 
 Everyone was very polite and did ask for permission before using anything posted by me. I’m sure at this point all news organizations have policies for how to use and credit online sources but it was nice to see this in action and be a part of it. On top of that my name and photo was featured on 2 live broadcasts and multiple online postings which I have to admit was pretty damn cool.
 
-ABC – [Tweet 1](https://twitter.com/GiannaUrgo/status/553684120258498560), [Tweet 2](https://twitter.com/ABC7Chicago/status/553686631031398401), [Story](http://abc7chicago.com/news/2nd-pipe-burst-at-union-station-this-week/469226/) (Used on web page and in live broadcast video)
+ABC – [Tweet 1](https://twitter.com/GiannaUrgo/status/553684120258498560), [Tweet 2](https://twitter.com/ABC7Chicago/status/553686631031398401), [Story](https://abc7chicago.com/post/2nd-pipe-burst-at-union-station-this-week/469226/) (Used on web page and in live broadcast video)
 
-NBC – [Tweet](https://twitter.com/TrinaOrlando/status/553696031301709826), [Story](http://www.nbcchicago.com/news/local/Water-Main-Break-Reported-at-Union-Station-288096611.html) (Used in live broadcast video)
+NBC – [Tweet](https://twitter.com/TrinaOrlando/status/553696031301709826), [Story](https://www.nbcchicago.com/news/local/water-main-break-reported-at-union-station/2078016/) (Used in live broadcast video)
 
 CBS – [Tweet](https://twitter.com/samirak01/status/553692581549572096) (Conversation mostly through Direct Messages)
 
-WGN – [Tweet](https://twitter.com/ungersam/status/553698212310417408), [Story](http://wgntv.com/2015/01/09/water-main-breaks-at-union-station/) (Used in video)
+WGN – [Tweet](https://twitter.com/ungersam/status/553698212310417408), [Story](https://wgntv.com/news/water-main-breaks-at-union-station/) (Used in video)
 
 89 WLS – [Tweet](https://twitter.com/wlsam890/status/553715272855482369)
 

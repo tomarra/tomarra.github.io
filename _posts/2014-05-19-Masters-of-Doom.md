@@ -14,4 +14,4 @@ I personally love any biography books which take place in the early days of the 
 
 Overall this was a quick read, but very good. Highly recommended especially if you ever played Wolfenstein 3D, Doom, or Quake.
 
-[Masters of Doom on Amazon](http://www.amazon.com/gp/product/0812972155/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972155&linkCode=as2&tag=tomarcom-20&linkId=YSXB4H3NOQWXDFCS)
+[Masters of Doom on Amazon](https://www.amazon.com/gp/product/0812972155/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972155&linkCode=as2&tag=tomarcom-20&linkId=YSXB4H3NOQWXDFCS)

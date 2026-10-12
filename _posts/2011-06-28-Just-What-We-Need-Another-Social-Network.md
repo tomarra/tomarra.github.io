@@ -11,4 +11,4 @@ Looks like Google is going to try it’s hand again at some kind of social netwo
 
 Really Google? A black top bar? Doesn’t that go against your entire web UI?
 
-**Update:** Look’s like Engadget got an invite to Google+ and has a writeup on it [here](http://www.engadget.com/2011/06/28/google-invite-received-we-go-hands-on/). Looks like an good approach but only time will tell if they can top the giant that is Facebook.
+**Update:** Look’s like Engadget got an invite to Google+ and has a writeup on it [here](https://www.engadget.com/2011-06-28-google-invite-received-we-go-hands-on.html). Looks like an good approach but only time will tell if they can top the giant that is Facebook.

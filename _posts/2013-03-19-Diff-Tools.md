@@ -6,7 +6,7 @@ image: Git_Logo.webp
 tags: software
 ---
 
-On a daily basis I am using Git on Windows and while I could use the command line for everything I find it much nicer to be able to see the git commit log all the time. After trying a few different tools I found [Git Extensions](https://code.google.com/p/gitextensions/) to be a great Git GUI when pared with P4Merge for diff and merging. But out of the box Git Extensions only supports [P4Merge](http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools) as a merge tool, not a diff tool. Well it only take a simple change to your .gitconfig file to get it working.
+On a daily basis I am using Git on Windows and while I could use the command line for everything I find it much nicer to be able to see the git commit log all the time. After trying a few different tools I found [Git Extensions](https://code.google.com/archive/p/gitextensions) to be a great Git GUI when pared with P4Merge for diff and merging. But out of the box Git Extensions only supports [P4Merge](https://www.perforce.com/products/p4/p4-merge) as a merge tool, not a diff tool. Well it only take a simple change to your .gitconfig file to get it working.
 
 ```txt
 [diff]
