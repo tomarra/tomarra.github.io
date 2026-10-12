@@ -20,4 +20,4 @@ I did some searching and noticed that people were making a standalone Hangouts a
 
 Option 3 – Stand Alone Chrome
 
-So back to doing some more searching and I stumble across [this](https://www.lessannoyingcrm.com/blog/2010/08/149/Create+application+shortcuts+in+Google+Chrome+on+a+Mac) site. It contains a script that makes a copy of Chrome, gives it a custom name and icon and only turns on the bare minimum to get pages rending and working. I set it up and it seemed to work perfectly. When you look at Activity Monitor you see the process that is running as Chrome but it doesn’t seem to be hogging memory and CPU cycles like the full app does.
+So back to doing some more searching and I stumble across [this](https://lessannoyingcrm.com/blog/create-application-shortcuts-in-google-chrome-on-a-mac) site. It contains a script that makes a copy of Chrome, gives it a custom name and icon and only turns on the bare minimum to get pages rending and working. I set it up and it seemed to work perfectly. When you look at Activity Monitor you see the process that is running as Chrome but it doesn’t seem to be hogging memory and CPU cycles like the full app does.

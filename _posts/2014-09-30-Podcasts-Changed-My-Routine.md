@@ -16,11 +16,11 @@ I use Podcasts to catch up on news and learn more about the industry that I make
 
 **My Podcast Subscriptions**
 
-- [MacBreak Weekly](http://twit.tv/mbw)
-- [Windows Weekly](http://twit.tv/ww)
-- [Accidental Tech Podcast](http://www.atp.fm/)
-- [Upgrade](http://relay.fm/upgrade)
-- [Debug](http://www.imore.com/debug)
+- [MacBreak Weekly](https://twit.tv/shows/macbreak-weekly)
+- [Windows Weekly](https://twit.tv/shows/windows-weekly)
+- [Accidental Tech Podcast](https://atp.fm/)
+- [Upgrade](https://relay.fm/upgrade)
+- [Debug](https://www.imore.com/debug)
 - [Wait, Wait, Don’t Tell Me](https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me)
 
 Now time for a small side rant. There are lots of different way’s to listen to Podcasts. Most people fall into one of 2 buckets, mostly due to convince. Either Apple’s Podcasts through iTunes and their Podcasts app on iOS because it’s built in or Stitcher Radio because it’s free on the App Store and Google Play. If you do get into Podcasts, **don’t use Stitcher**.
@@ -31,6 +31,6 @@ Either way do the industry a favor and use one of the many other Podcast applica
 
 **Best Podcast Clients**
 
-- iOS – [Overcast](http://www.overcast.fm/)
+- iOS – [Overcast](https://overcast.fm/)
 - Android – [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
 - Windows Phone – Podcasts (built into WP 8.1)

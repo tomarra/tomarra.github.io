@@ -5,7 +5,7 @@ date: 2017-05-30
 tags: dasow podcasts
 ---
 
-A few months back myself and a few of my friends decided to start a [podcast](https://www.dollarsandsenseofwestworld.com). Little did we know what we were getting into. We had a solid idea for the topic and if you know any of us the talking part was never going to be a problem. But when it was actually time to get things moving we found out all the little tasks and items that it takes to actually get a podcast launched and out the door every week. So how do we do it?
+A few months back myself and a few of my friends decided to start a [podcast](https://dollarsandsenseofwestworld.com). Little did we know what we were getting into. We had a solid idea for the topic and if you know any of us the talking part was never going to be a problem. But when it was actually time to get things moving we found out all the little tasks and items that it takes to actually get a podcast launched and out the door every week. So how do we do it?
 
 # Recording
 
@@ -67,11 +67,11 @@ While the intro episode was easy to edit in Garageband, when it came to the firs
 
 ## Metadata
 
-After you have a good MP3 file there is actually one more step, metadata. Quality podcasts these days include things like album art, descriptions, and even chapters. Some more digging around online and I found [Podcast Chapters](http://chaptersapp.com), a Mac utility that made it super simple to add this information in the MP3 file. It even supports chapter specific album art if you want to get that granular.
+After you have a good MP3 file there is actually one more step, metadata. Quality podcasts these days include things like album art, descriptions, and even chapters. Some more digging around online and I found [Podcast Chapters](https://chaptersapp.com), a Mac utility that made it super simple to add this information in the MP3 file. It even supports chapter specific album art if you want to get that granular.
 
 # Hosting
 
-So now we have audio file ready to go. How do we get it to our listeners? All podcasts are distributed via RSS feeds. Once you establish this feed URL you really don’t want to change it otherwise all your listeners need to re-subscribe so it was important to get this right from the start. We knew that to do this right it was going to cost something so we wanted to make sure we were getting a good solution for the price. We settled on a [LibSyn](https://www.libsyn.com) plan that costs $15 a month. They offer a really easy web interface to create new entries in the feed and even offer some nice features like scheduled releases (which have come in handy a few times). On top of that they track and give simple statics for each episode release so we can see how were doing.
+So now we have audio file ready to go. How do we get it to our listeners? All podcasts are distributed via RSS feeds. Once you establish this feed URL you really don’t want to change it otherwise all your listeners need to re-subscribe so it was important to get this right from the start. We knew that to do this right it was going to cost something so we wanted to make sure we were getting a good solution for the price. We settled on a [LibSyn](https://libsyn.com) plan that costs $15 a month. They offer a really easy web interface to create new entries in the feed and even offer some nice features like scheduled releases (which have come in handy a few times). On top of that they track and give simple statics for each episode release so we can see how were doing.
 
 ## Listing/Subscribing
 

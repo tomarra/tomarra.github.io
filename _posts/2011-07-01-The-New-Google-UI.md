@@ -9,6 +9,6 @@ A few days ago I [wrote](https://tomarra.com/2011/06/28/Just-What-We-Need-Anothe
 
 Also I now have a Google+ account so after some use and helping populate the user base I hope to have a write up on it soon.
 
-[Gmail Blog Showing New UI](http://gmailblog.blogspot.com/2011/06/preview-of-gmails-new-look.html)
+[Gmail Blog Showing New UI](https://gmail.googleblog.com/2011/06/preview-of-gmails-new-look.html)
 
 [Google Calendar Help – New UI](http://www.google.com/support/calendar/bin/answer.py?answer=1351806)

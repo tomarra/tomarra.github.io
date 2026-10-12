@@ -77,6 +77,6 @@ _A working scoreboard with a game in progress_
 
 And that’s where I am today. Overall, the feedback from all the curlers has been great and the few tweaks I have made over the last month have made it a great setup for our club and something unique as compared to other facilities. There for sure is more work to be done, but we are at a good stopping point right now. The next feature requests would get live scores and game reports saved to a backend so we can include it in other functions the club has, like [our live streams on YouTube](https://www.youtube.com/@WindyCityCurling/streams), but that’s a project for another time.
 
-If you’re curious about how I wrote this, the code is all [open source and available on GitHub](https://github.com/tomarra/curling_scoreboard_flutter). You can also just experiment with it in your browser at [curlingscoreboard.app](https://curlingscoreboard.app). It’s just deployed as a Flutter Web App and that’s how we run it on the tablets in the club as well.
+If you’re curious about how I wrote this, the code is all [open source and available on GitHub](https://github.com/CloudgateStudios/curling_scoreboard). You can also just experiment with it in your browser at [curlingscoreboard.app](https://curlingscoreboard.app). It’s just deployed as a Flutter Web App and that’s how we run it on the tablets in the club as well.
 
 Good Curling! 🥌

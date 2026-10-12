@@ -3,10 +3,10 @@
 [![Check Links](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml/badge.svg)](https://github.com/tomarra/tomarra.github.io/actions/workflows/site_link_check.yaml)
 
 ## About
-The repo for my personal website. The site is built on [Jekyll](http://jekyllrb.com) and is running a modified version of the [BlogInn theme](https://justgoodthemes.com/ghost-themes/bloginn/). The actual site is hosted through GitHub Pages and can be accessed by navigating to [http://www.tomarra.com](http://www.tomarra.com).
+The repo for my personal website. The site is built on [Jekyll](http://jekyllrb.com) and is running a modified version of the [BlogInn theme](https://justgoodthemes.com/ghost-themes/bloginn/). The actual site is hosted through GitHub Pages and can be accessed by navigating to [https://tomarra.com](https://tomarra.com).
 
 ## Run Locally
-A lot of this is covered in the main GitHub help guide which can be found [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+A lot of this is covered in the main GitHub help guide which can be found [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
 1. Make sure your running Ruby 2.1.0 or higher
    * If not install RVM - `curl -sSL https://get.rvm.io | bash -s stable --ruby`. This will take a while as it will setup RVM and install the latest stable version of Ruby and RubyGems. After the install it's best to restart the terminal to pickup the changes.
@@ -21,7 +21,7 @@ There are a few things that are automated on the repo in order to make sure ever
 
 ### Spell Checker
 
-As part of the [PR/CI process](https://github.com/tomarra/tomarra.github.io/blob/master/.github/workflows/pull_request.yaml), a spell checker is ran on the entire codebase. Any errors on the checker should be fixed or added to the [cspell config](https://github.com/tomarra/tomarra.github.io/blob/master/.vscode/cspell.json) so it can pass. All items in the cspell config should be lowercase.
+As part of the [PR/CI process](https://github.com/tomarra/tomarra.github.io/blob/main/.github/workflows/pull_request.yaml), a spell checker is ran on the entire codebase. Any errors on the checker should be fixed or added to the [cspell config](https://github.com/tomarra/tomarra.github.io/blob/main/.vscode/cspell.json) so it can pass. All items in the cspell config should be lowercase.
 
 ### Link Checker
 

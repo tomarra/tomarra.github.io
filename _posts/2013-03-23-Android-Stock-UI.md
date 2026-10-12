@@ -10,4 +10,4 @@ The Android OS is great, in theory. The original thought behind Android was to c
 
 Android is an open operating system, its was designed for this. But consumers have forgot one thing, Google still makes the OS and the default UI but they never get to see it anymore.
 
-Recently The Verge posted [this article](http://www.theverge.com/2013/3/23/4132926/nexus-look-on-any-android-phone) about how to get the stock look back on any Android device. While it only takes 3 apps, most of which are free, one question always popped up in my head. Shouldn’t it be the other way around? Why not start with the stock UI and let users decide if they want your companies branding all over it.
+Recently The Verge posted [this article](https://www.theverge.com/2013/3/23/4132926/nexus-look-on-any-android-phone) about how to get the stock look back on any Android device. While it only takes 3 apps, most of which are free, one question always popped up in my head. Shouldn’t it be the other way around? Why not start with the stock UI and let users decide if they want your companies branding all over it.
